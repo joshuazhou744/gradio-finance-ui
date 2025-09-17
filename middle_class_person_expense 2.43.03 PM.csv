@@ -1,0 +1,1103 @@
+Date,Transaction Description,Category,Amount,Type
+2020-01-29,Home goods at IKEA,Shopping,166.81,Expense
+2020-01-02,Mobile phone plan - Bell Canada,Utilities,1475.58,Expense
+2020-01-21,Netflix subscription,Entertainment,1914.85,Expense
+2020-01-25,General health & fitness transaction,Health & Fitness,1211.41,Expense
+2020-01-02,Brunch at The Smith,Food & Drink,1485.69,Expense
+2020-01-31,Dinner at Carbone (fine dining),Food & Drink,1325.91,Expense
+2020-01-31,Housing rental fee,Rent,1712.08,Expense
+2020-01-13,Brunch at The Smith,Food & Drink,1126.88,Expense
+2020-01-25,Housing rental fee,Rent,766.06,Expense
+2020-01-31,Electronics from Best Buy,Shopping,563.17,Expense
+2020-01-30,General health & fitness transaction,Health & Fitness,1158.93,Expense
+2020-01-14,Clothing at Zara,Shopping,448.68,Expense
+2020-01-04,Housing rental fee,Rent,1185.08,Expense
+2020-01-18,Brunch at The Smith,Food & Drink,1520.03,Expense
+2020-01-26,Wages from Apple Inc.,Salary,1077.09,Expense
+2020-02-16,Home goods at IKEA,Shopping,730.37,Expense
+2020-02-29,General travel transaction,Travel,1944.06,Expense
+2020-02-11,General health & fitness transaction,Health & Fitness,433.13,Expense
+2020-02-07,General travel transaction,Travel,1979.15,Expense
+2020-02-27,Dinner at Carbone (fine dining),Food & Drink,1363.76,Expense
+2020-02-04,General travel transaction,Travel,1406.62,Expense
+2020-02-16,Gas bill - Enbridge,Utilities,1023.96,Expense
+2020-02-13,Wages from Apple Inc.,Salary,294.31,Expense
+2020-02-08,Lunch at Chipotle,Food & Drink,465.81,Expense
+2020-02-09,Netflix subscription,Entertainment,1827.14,Expense
+2020-02-02,General health & fitness transaction,Health & Fitness,333.68,Expense
+2020-02-05,Housing rental fee,Rent,1222.17,Expense
+2020-02-07,Concert tickets - Drake,Entertainment,1372.38,Expense
+2020-02-20,Amazon purchase,Shopping,769.42,Expense
+2020-02-26,General travel transaction,Travel,1942.45,Expense
+2020-03-23,Brunch at The Smith,Food & Drink,151.28,Expense
+2020-03-21,Condo rent transfer,Rent,503.33,Expense
+2020-03-12,Electricity bill - Hydro One,Utilities,537.46,Expense
+2020-03-03,Apartment lease payment,Rent,1742.33,Expense
+2020-03-18,General health & fitness transaction,Health & Fitness,881.82,Expense
+2020-03-24,Netflix subscription,Entertainment,144.13,Expense
+2020-03-12,Water services - City of Toronto,Utilities,265.5,Expense
+2020-03-11,Monthly rent payment to landlord,Rent,1956.19,Expense
+2020-03-04,Grocery run at Whole Foods,Food & Drink,1201.9,Expense
+2020-03-14,Clothing at Zara,Shopping,1929.08,Expense
+2020-03-04,Broadway show tickets,Entertainment,314.15,Expense
+2020-03-09,Condo rent transfer,Rent,1858.91,Expense
+2020-03-09,General travel transaction,Travel,486.51,Expense
+2020-03-15,Broadway show tickets,Entertainment,1428.77,Expense
+2020-03-11,Condo rent transfer,Rent,180.45,Expense
+2020-04-26,Drinks at local pub,Food & Drink,1938.3,Expense
+2020-04-01,General travel transaction,Travel,1341.27,Expense
+2020-04-27,Concert tickets - Drake,Entertainment,340.96,Expense
+2020-04-30,General travel transaction,Travel,1853.77,Expense
+2020-04-05,Mobile phone plan - Bell Canada,Utilities,1449.47,Expense
+2020-04-06,Freelance payment - Upwork,Salary,493.56,Expense
+2020-04-06,Amazon purchase,Shopping,388.92,Expense
+2020-04-18,General health & fitness transaction,Health & Fitness,1603.18,Expense
+2020-04-17,Freelance payment - Upwork,Salary,1729.04,Expense
+2020-04-25,Spotify Premium subscription,Entertainment,1750.23,Expense
+2020-04-29,Mobile phone plan - Bell Canada,Utilities,764.16,Expense
+2020-04-23,Water services - City of Toronto,Utilities,849.54,Expense
+2020-04-27,Netflix subscription,Entertainment,1730.65,Expense
+2020-05-31,General health & fitness transaction,Health & Fitness,415.16,Expense
+2020-05-30,Mobile phone plan - Bell Canada,Utilities,551.97,Expense
+2020-05-14,General health & fitness transaction,Health & Fitness,484.99,Expense
+2020-05-21,Mobile phone plan - Bell Canada,Utilities,881.99,Expense
+2020-05-03,Drinks at local pub,Food & Drink,1162.57,Expense
+2020-05-17,Condo rent transfer,Rent,155.79,Expense
+2020-05-28,Housing rental fee,Rent,1878.47,Expense
+2020-05-25,General travel transaction,Travel,1227.24,Expense
+2020-05-27,Takeout from Shake Shack,Food & Drink,1339.05,Expense
+2020-05-06,Gas bill - Enbridge,Utilities,123.19,Expense
+2020-05-20,Condo rent transfer,Rent,1759.75,Expense
+2020-05-15,General travel transaction,Travel,919.88,Expense
+2020-05-12,Electronics from Best Buy,Shopping,1318.17,Expense
+2020-05-03,Freelance payment - Upwork,Salary,318.05,Expense
+2020-05-13,General health & fitness transaction,Health & Fitness,1870.07,Expense
+2020-05-05,General health & fitness transaction,Health & Fitness,123.76,Expense
+2020-05-19,General travel transaction,Travel,273.59,Expense
+2020-05-01,General travel transaction,Travel,851.78,Expense
+2020-05-31,General travel transaction,Travel,1015.76,Expense
+2020-05-16,Housing rental fee,Rent,28.54,Expense
+2020-06-10,General health & fitness transaction,Health & Fitness,1562.43,Expense
+2020-06-12,Mobile phone plan - Bell Canada,Utilities,1764.02,Expense
+2020-06-05,Internet bill - Rogers,Utilities,1277.86,Expense
+2020-06-11,Movie night at Cineplex,Entertainment,1730.57,Expense
+2020-06-06,Paycheck from Amazon,Salary,1107.84,Expense
+2020-06-07,Lunch at Chipotle,Food & Drink,232.63,Expense
+2020-06-22,General travel transaction,Travel,86.13,Expense
+2020-06-18,Apartment lease payment,Rent,771.26,Expense
+2020-06-08,Gas bill - Enbridge,Utilities,1095.72,Expense
+2020-06-24,General health & fitness transaction,Health & Fitness,1459.8,Expense
+2020-06-21,General health & fitness transaction,Health & Fitness,1879.08,Expense
+2020-06-19,Home goods at IKEA,Shopping,663.24,Expense
+2020-06-01,Dinner at Carbone (fine dining),Food & Drink,193.67,Expense
+2020-06-19,Netflix subscription,Entertainment,453.62,Expense
+2020-06-09,Gas bill - Enbridge,Utilities,865.28,Expense
+2020-06-21,General travel transaction,Travel,708.78,Expense
+2020-06-10,Netflix subscription,Entertainment,1367.31,Expense
+2020-06-30,General travel transaction,Travel,98.33,Expense
+2020-06-02,General travel transaction,Travel,97.73,Expense
+2020-06-30,Apartment lease payment,Rent,776.54,Expense
+2020-07-30,Mobile phone plan - Bell Canada,Utilities,1489.87,Expense
+2020-07-08,General travel transaction,Travel,818.09,Expense
+2020-07-02,Spotify Premium subscription,Entertainment,734.8,Expense
+2020-07-31,General travel transaction,Travel,1506.04,Expense
+2020-07-29,Shoes from Nike Store,Shopping,1662.83,Expense
+2020-07-04,Monthly rent payment to landlord,Rent,1442.31,Expense
+2020-07-06,General travel transaction,Travel,1113.28,Expense
+2020-07-05,General travel transaction,Travel,1337.12,Expense
+2020-07-12,Concert tickets - Drake,Entertainment,1027.24,Expense
+2020-07-22,Netflix subscription,Entertainment,1439.51,Expense
+2020-07-23,Housing rental fee,Rent,1559.06,Expense
+2020-07-22,Shoes from Nike Store,Shopping,495.53,Expense
+2020-07-13,Electricity bill - Hydro One,Utilities,1321.11,Expense
+2020-07-20,Movie night at Cineplex,Entertainment,1348.86,Expense
+2020-07-11,General travel transaction,Travel,580.96,Expense
+2020-07-22,Drinks at local pub,Food & Drink,1786.39,Expense
+2020-07-21,Spotify Premium subscription,Entertainment,303.23,Expense
+2020-07-28,Housing rental fee,Rent,918.36,Expense
+2020-07-12,General health & fitness transaction,Health & Fitness,935.33,Expense
+2020-07-24,Paycheck from Amazon,Salary,109.93,Expense
+2020-08-05,Grocery run at Whole Foods,Food & Drink,1714.9,Expense
+2020-08-17,Electronics from Best Buy,Shopping,1187.87,Expense
+2020-08-04,Mobile phone plan - Bell Canada,Utilities,1415.77,Expense
+2020-08-29,Wages from Apple Inc.,Salary,1342.22,Expense
+2020-08-13,Wages from Apple Inc.,Salary,67.76,Expense
+2020-08-01,Movie night at Cineplex,Entertainment,556.45,Expense
+2020-08-14,Amazon purchase,Shopping,1451.12,Expense
+2020-08-16,Mobile phone plan - Bell Canada,Utilities,1961.64,Expense
+2020-08-09,Concert tickets - Drake,Entertainment,981.58,Expense
+2020-08-30,Movie night at Cineplex,Entertainment,935.42,Expense
+2020-08-02,General health & fitness transaction,Health & Fitness,1787.12,Expense
+2020-08-31,General health & fitness transaction,Health & Fitness,343.9,Expense
+2020-08-08,Electronics from Best Buy,Shopping,1081.06,Expense
+2020-08-18,Monthly rent payment to landlord,Rent,1289.07,Expense
+2020-08-21,General health & fitness transaction,Health & Fitness,681.63,Expense
+2020-08-22,Dinner at Carbone (fine dining),Food & Drink,1999.82,Expense
+2020-08-27,Brunch at The Smith,Food & Drink,1899.73,Expense
+2020-08-08,General travel transaction,Travel,1509.42,Expense
+2020-08-22,General travel transaction,Travel,1671.47,Expense
+2020-08-04,Electronics from Best Buy,Shopping,133.91,Expense
+2020-09-27,Netflix subscription,Entertainment,180.37,Expense
+2020-09-11,General health & fitness transaction,Health & Fitness,147.22,Expense
+2020-09-27,General travel transaction,Travel,1116.02,Expense
+2020-09-08,Netflix subscription,Entertainment,212.78,Expense
+2020-09-06,Shoes from Nike Store,Shopping,799.34,Expense
+2020-09-23,Internet bill - Rogers,Utilities,980.22,Expense
+2020-09-11,Condo rent transfer,Rent,1594.49,Expense
+2020-09-25,General travel transaction,Travel,687.27,Expense
+2020-09-29,Direct deposit - Microsoft,Salary,1295.35,Expense
+2020-09-27,Monthly salary - Google,Salary,1114.8,Expense
+2020-09-05,General travel transaction,Travel,1155.84,Expense
+2020-09-16,Grocery run at Whole Foods,Food & Drink,1700.66,Expense
+2020-09-22,Monthly salary - Google,Salary,1144.0,Expense
+2020-09-01,Apartment lease payment,Rent,1557.81,Expense
+2020-09-22,Condo rent transfer,Rent,565.07,Expense
+2020-09-30,Lunch at Chipotle,Food & Drink,195.18,Expense
+2020-09-11,Brunch at The Smith,Food & Drink,700.94,Expense
+2020-09-07,Condo rent transfer,Rent,1188.27,Expense
+2020-09-17,Monthly rent payment to landlord,Rent,872.71,Expense
+2020-09-17,Paycheck from Amazon,Salary,1417.54,Expense
+2020-10-19,General travel transaction,Travel,179.51,Expense
+2020-10-15,Direct deposit - Microsoft,Salary,962.64,Expense
+2020-10-27,Apartment lease payment,Rent,1895.7,Expense
+2020-10-29,Electricity bill - Hydro One,Utilities,15.32,Expense
+2020-10-10,General travel transaction,Travel,462.69,Expense
+2020-10-31,General travel transaction,Travel,1408.95,Expense
+2020-10-16,Takeout from Shake Shack,Food & Drink,512.43,Expense
+2020-10-03,Paycheck from Amazon,Salary,1111.41,Expense
+2020-10-07,General travel transaction,Travel,510.29,Expense
+2020-10-30,Freelance payment - Upwork,Salary,589.61,Expense
+2020-10-27,Amazon purchase,Shopping,617.71,Expense
+2020-10-16,Monthly rent payment to landlord,Rent,1158.27,Expense
+2020-10-24,Netflix subscription,Entertainment,1553.63,Expense
+2020-10-12,Water services - City of Toronto,Utilities,1279.36,Expense
+2020-10-04,General health & fitness transaction,Health & Fitness,710.1,Expense
+2020-10-08,General travel transaction,Travel,1961.22,Expense
+2020-10-27,Spotify Premium subscription,Entertainment,536.65,Expense
+2020-10-14,Monthly rent payment to landlord,Rent,1746.71,Expense
+2020-10-01,Netflix subscription,Entertainment,619.35,Expense
+2020-10-08,Wages from Apple Inc.,Salary,560.23,Expense
+2020-11-29,Electricity bill - Hydro One,Utilities,1001.77,Expense
+2020-11-27,Takeout from Shake Shack,Food & Drink,1108.98,Expense
+2020-11-16,Takeout from Shake Shack,Food & Drink,915.1,Expense
+2020-11-01,Broadway show tickets,Entertainment,856.03,Expense
+2020-11-26,Netflix subscription,Entertainment,1422.47,Expense
+2020-11-07,General travel transaction,Travel,1402.47,Expense
+2020-11-15,General travel transaction,Travel,1328.54,Expense
+2020-11-10,Grocery run at Whole Foods,Food & Drink,191.74,Expense
+2020-11-14,General travel transaction,Travel,371.16,Expense
+2020-11-09,Freelance payment - Upwork,Salary,881.14,Expense
+2020-11-12,Grocery run at Whole Foods,Food & Drink,1999.15,Expense
+2020-11-17,Coffee at Starbucks,Food & Drink,1318.74,Expense
+2020-11-12,General travel transaction,Travel,1156.73,Expense
+2020-11-20,Clothing at Zara,Shopping,117.87,Expense
+2020-11-14,Wages from Apple Inc.,Salary,1938.42,Expense
+2020-11-16,General health & fitness transaction,Health & Fitness,240.68,Expense
+2020-11-06,General travel transaction,Travel,883.92,Expense
+2020-11-04,Condo rent transfer,Rent,128.68,Expense
+2020-11-02,Mobile phone plan - Bell Canada,Utilities,1817.74,Expense
+2020-11-01,Spotify Premium subscription,Entertainment,1848.58,Expense
+2020-12-11,General travel transaction,Travel,1676.58,Expense
+2020-12-10,General travel transaction,Travel,1642.89,Expense
+2020-12-25,Paycheck from Amazon,Salary,1746.04,Expense
+2020-12-16,Amazon purchase,Shopping,778.3,Expense
+2020-12-20,Dinner at Carbone (fine dining),Food & Drink,1447.66,Expense
+2020-12-16,Home goods at IKEA,Shopping,474.79,Expense
+2020-12-30,Home goods at IKEA,Shopping,1956.89,Expense
+2020-12-31,Housing rental fee,Rent,892.92,Expense
+2020-12-05,Amazon purchase,Shopping,389.31,Expense
+2020-12-24,Shoes from Nike Store,Shopping,1908.74,Expense
+2020-12-13,Freelance payment - Upwork,Salary,696.8,Expense
+2020-12-16,Drinks at local pub,Food & Drink,643.17,Expense
+2020-12-23,Housing rental fee,Rent,1705.01,Expense
+2020-12-20,Direct deposit - Microsoft,Salary,208.43,Expense
+2020-12-01,General travel transaction,Travel,836.83,Expense
+2020-12-14,Electronics from Best Buy,Shopping,916.14,Expense
+2020-12-23,General travel transaction,Travel,683.74,Expense
+2020-12-06,Electricity bill - Hydro One,Utilities,1729.41,Expense
+2020-12-10,Home goods at IKEA,Shopping,686.35,Expense
+2020-12-14,Spotify Premium subscription,Entertainment,1961.74,Expense
+2021-01-06,General travel transaction,Travel,723.34,Expense
+2021-01-13,General travel transaction,Travel,1281.49,Expense
+2021-01-15,General travel transaction,Travel,53.66,Expense
+2021-01-29,Electricity bill - Hydro One,Utilities,521.37,Expense
+2021-01-11,Paycheck from Amazon,Salary,518.1,Expense
+2021-01-14,Shoes from Nike Store,Shopping,1708.14,Expense
+2021-01-26,Coffee at Starbucks,Food & Drink,624.78,Expense
+2021-01-10,Mobile phone plan - Bell Canada,Utilities,472.06,Expense
+2021-01-17,Coffee at Starbucks,Food & Drink,1822.13,Expense
+2021-01-27,General health & fitness transaction,Health & Fitness,1467.4,Expense
+2021-01-27,General health & fitness transaction,Health & Fitness,1066.4,Expense
+2021-01-08,Mobile phone plan - Bell Canada,Utilities,348.27,Expense
+2021-01-13,Water services - City of Toronto,Utilities,156.99,Expense
+2021-01-06,Netflix subscription,Entertainment,1067.02,Expense
+2021-01-01,Grocery run at Whole Foods,Food & Drink,101.52,Expense
+2021-01-20,General health & fitness transaction,Health & Fitness,445.82,Expense
+2021-01-19,General travel transaction,Travel,1553.72,Expense
+2021-01-14,General travel transaction,Travel,919.1,Expense
+2021-01-27,Water services - City of Toronto,Utilities,409.58,Expense
+2021-01-17,Shoes from Nike Store,Shopping,556.22,Expense
+2021-02-05,General health & fitness transaction,Health & Fitness,1610.42,Expense
+2021-02-08,General health & fitness transaction,Health & Fitness,189.7,Expense
+2021-02-02,Paycheck from Amazon,Salary,1935.09,Expense
+2021-02-28,General health & fitness transaction,Health & Fitness,442.37,Expense
+2021-02-08,Amazon purchase,Shopping,1934.87,Expense
+2021-02-11,General health & fitness transaction,Health & Fitness,225.61,Expense
+2021-02-23,Electronics from Best Buy,Shopping,1178.81,Expense
+2021-02-16,Condo rent transfer,Rent,1274.45,Expense
+2021-02-20,Monthly salary - Google,Salary,241.08,Expense
+2021-02-09,General travel transaction,Travel,1173.27,Expense
+2021-02-27,Clothing at Zara,Shopping,1878.72,Expense
+2021-02-09,General travel transaction,Travel,1077.78,Expense
+2021-02-18,General travel transaction,Travel,1301.99,Expense
+2021-02-24,Amazon purchase,Shopping,1313.29,Expense
+2021-02-11,Brunch at The Smith,Food & Drink,1242.9,Expense
+2021-02-21,Water services - City of Toronto,Utilities,783.41,Expense
+2021-02-13,General health & fitness transaction,Health & Fitness,1831.36,Expense
+2021-02-05,Monthly rent payment to landlord,Rent,290.11,Expense
+2021-03-25,Electronics from Best Buy,Shopping,837.82,Expense
+2021-03-29,Apartment lease payment,Rent,869.43,Expense
+2021-03-02,Concert tickets - Drake,Entertainment,1712.35,Expense
+2021-03-21,Paycheck from Amazon,Salary,156.25,Expense
+2021-03-04,Condo rent transfer,Rent,1898.53,Expense
+2021-03-17,General health & fitness transaction,Health & Fitness,1031.34,Expense
+2021-03-02,General health & fitness transaction,Health & Fitness,130.49,Expense
+2021-03-07,Netflix subscription,Entertainment,1176.9,Expense
+2021-03-22,General travel transaction,Travel,912.89,Expense
+2021-03-24,Movie night at Cineplex,Entertainment,833.49,Expense
+2021-03-20,Shoes from Nike Store,Shopping,1375.33,Expense
+2021-03-05,Apartment lease payment,Rent,1328.91,Expense
+2021-03-19,Dinner at Carbone (fine dining),Food & Drink,1997.19,Expense
+2021-03-30,General health & fitness transaction,Health & Fitness,1625.42,Expense
+2021-03-09,Gas bill - Enbridge,Utilities,1975.18,Expense
+2021-03-08,Concert tickets - Drake,Entertainment,663.83,Expense
+2021-03-12,Internet bill - Rogers,Utilities,39.57,Expense
+2021-03-27,General health & fitness transaction,Health & Fitness,1907.65,Expense
+2021-03-15,Netflix subscription,Entertainment,1181.82,Expense
+2021-03-10,Gas bill - Enbridge,Utilities,228.75,Expense
+2021-04-24,Freelance payment - Upwork,Salary,1058.6,Expense
+2021-04-11,General travel transaction,Travel,67.62,Expense
+2021-04-27,Concert tickets - Drake,Entertainment,796.57,Expense
+2021-04-27,Electricity bill - Hydro One,Utilities,1530.68,Expense
+2021-04-23,General travel transaction,Travel,438.98,Expense
+2021-04-30,Apartment lease payment,Rent,25.38,Expense
+2021-04-13,Electronics from Best Buy,Shopping,148.47,Expense
+2021-04-18,Lunch at Chipotle,Food & Drink,192.6,Expense
+2021-04-11,General travel transaction,Travel,1843.86,Expense
+2021-04-03,General travel transaction,Travel,1204.82,Expense
+2021-04-03,Spotify Premium subscription,Entertainment,317.91,Expense
+2021-04-08,Home goods at IKEA,Shopping,1691.86,Expense
+2021-04-12,Internet bill - Rogers,Utilities,1741.03,Expense
+2021-04-19,Housing rental fee,Rent,1767.85,Expense
+2021-04-02,Electronics from Best Buy,Shopping,1737.5,Expense
+2021-04-23,General health & fitness transaction,Health & Fitness,865.53,Expense
+2021-04-01,General health & fitness transaction,Health & Fitness,1343.33,Expense
+2021-04-09,Lunch at Chipotle,Food & Drink,1221.9,Expense
+2021-04-19,General health & fitness transaction,Health & Fitness,630.16,Expense
+2021-04-21,Amazon purchase,Shopping,976.47,Expense
+2021-05-11,Movie night at Cineplex,Entertainment,877.0,Expense
+2021-05-10,Water services - City of Toronto,Utilities,1604.63,Expense
+2021-05-30,Wages from Apple Inc.,Salary,1164.86,Expense
+2021-05-27,General travel transaction,Travel,162.69,Expense
+2021-05-29,Monthly rent payment to landlord,Rent,1233.87,Expense
+2021-05-04,Broadway show tickets,Entertainment,1005.52,Expense
+2021-05-14,General health & fitness transaction,Health & Fitness,450.93,Expense
+2021-05-14,Condo rent transfer,Rent,1025.86,Expense
+2021-05-07,Housing rental fee,Rent,816.01,Expense
+2021-05-07,Clothing at Zara,Shopping,1421.9,Expense
+2021-05-27,Monthly salary - Google,Salary,84.84,Expense
+2021-05-25,General travel transaction,Travel,1594.7,Expense
+2021-05-22,Condo rent transfer,Rent,362.52,Expense
+2021-05-31,Grocery run at Whole Foods,Food & Drink,904.97,Expense
+2021-05-25,General health & fitness transaction,Health & Fitness,1019.6,Expense
+2021-05-06,Lunch at Chipotle,Food & Drink,878.08,Expense
+2021-05-02,Gas bill - Enbridge,Utilities,267.08,Expense
+2021-05-12,Housing rental fee,Rent,797.58,Expense
+2021-05-31,Spotify Premium subscription,Entertainment,649.84,Expense
+2021-05-23,Monthly salary - Google,Salary,933.27,Expense
+2021-06-22,Housing rental fee,Rent,1295.59,Expense
+2021-06-26,Netflix subscription,Entertainment,460.82,Expense
+2021-06-20,Housing rental fee,Rent,626.07,Expense
+2021-06-29,Lunch at Chipotle,Food & Drink,827.61,Expense
+2021-06-02,Internet bill - Rogers,Utilities,1915.87,Expense
+2021-06-06,Mobile phone plan - Bell Canada,Utilities,734.16,Expense
+2021-06-28,Condo rent transfer,Rent,1020.3,Expense
+2021-06-06,Wages from Apple Inc.,Salary,1982.06,Expense
+2021-06-06,Home goods at IKEA,Shopping,823.45,Expense
+2021-06-24,Movie night at Cineplex,Entertainment,690.05,Expense
+2021-06-23,General health & fitness transaction,Health & Fitness,46.28,Expense
+2021-06-28,Internet bill - Rogers,Utilities,1198.52,Expense
+2021-06-11,Electronics from Best Buy,Shopping,575.45,Expense
+2021-06-16,Electronics from Best Buy,Shopping,266.61,Expense
+2021-06-20,General health & fitness transaction,Health & Fitness,1628.24,Expense
+2021-06-11,Condo rent transfer,Rent,666.08,Expense
+2021-06-15,Electricity bill - Hydro One,Utilities,1834.33,Expense
+2021-06-09,Takeout from Shake Shack,Food & Drink,1580.56,Expense
+2021-06-28,Brunch at The Smith,Food & Drink,1327.24,Expense
+2021-06-02,General health & fitness transaction,Health & Fitness,1964.95,Expense
+2021-07-19,Apartment lease payment,Rent,1679.96,Expense
+2021-07-10,Condo rent transfer,Rent,1425.69,Expense
+2021-07-04,Monthly salary - Google,Salary,1808.91,Expense
+2021-07-09,Electricity bill - Hydro One,Utilities,1635.61,Expense
+2021-07-24,Condo rent transfer,Rent,47.82,Expense
+2021-07-23,Direct deposit - Microsoft,Salary,1395.18,Expense
+2021-07-07,Clothing at Zara,Shopping,1010.78,Expense
+2021-07-29,Home goods at IKEA,Shopping,231.26,Expense
+2021-07-13,Electronics from Best Buy,Shopping,115.98,Expense
+2021-07-04,Wages from Apple Inc.,Salary,475.67,Expense
+2021-07-19,Gas bill - Enbridge,Utilities,283.82,Expense
+2021-07-04,Spotify Premium subscription,Entertainment,1939.48,Expense
+2021-07-09,Mobile phone plan - Bell Canada,Utilities,1747.27,Expense
+2021-07-12,Monthly salary - Google,Salary,1770.41,Expense
+2021-07-11,Condo rent transfer,Rent,577.28,Expense
+2021-07-14,Spotify Premium subscription,Entertainment,778.47,Expense
+2021-07-11,General travel transaction,Travel,904.15,Expense
+2021-07-28,Electricity bill - Hydro One,Utilities,1102.12,Expense
+2021-07-11,Shoes from Nike Store,Shopping,192.51,Expense
+2021-08-06,Paycheck from Amazon,Salary,134.99,Expense
+2021-08-08,Takeout from Shake Shack,Food & Drink,1233.47,Expense
+2021-08-02,General travel transaction,Travel,252.48,Expense
+2021-08-20,General health & fitness transaction,Health & Fitness,1628.88,Expense
+2021-08-18,General health & fitness transaction,Health & Fitness,275.49,Expense
+2021-08-07,Monthly salary - Google,Salary,1197.51,Expense
+2021-08-13,Amazon purchase,Shopping,1962.27,Expense
+2021-08-21,Internet bill - Rogers,Utilities,135.57,Expense
+2021-08-11,General health & fitness transaction,Health & Fitness,144.68,Expense
+2021-08-09,Amazon purchase,Shopping,382.75,Expense
+2021-08-27,Netflix subscription,Entertainment,579.36,Expense
+2021-08-23,Spotify Premium subscription,Entertainment,1772.72,Expense
+2021-08-25,Freelance payment - Upwork,Salary,514.09,Expense
+2021-08-24,General travel transaction,Travel,1035.61,Expense
+2021-08-15,Coffee at Starbucks,Food & Drink,720.62,Expense
+2021-08-13,Lunch at Chipotle,Food & Drink,787.0,Expense
+2021-08-29,Coffee at Starbucks,Food & Drink,1732.94,Expense
+2021-08-22,Monthly salary - Google,Salary,83.6,Expense
+2021-09-19,Takeout from Shake Shack,Food & Drink,1214.14,Expense
+2021-09-09,General travel transaction,Travel,1604.28,Expense
+2021-09-16,Brunch at The Smith,Food & Drink,159.33,Expense
+2021-09-05,Monthly rent payment to landlord,Rent,1600.69,Expense
+2021-09-11,Wages from Apple Inc.,Salary,709.58,Expense
+2021-09-09,Home goods at IKEA,Shopping,684.68,Expense
+2021-09-11,Monthly rent payment to landlord,Rent,662.56,Expense
+2021-09-11,Gas bill - Enbridge,Utilities,1095.49,Expense
+2021-09-16,General health & fitness transaction,Health & Fitness,1031.04,Expense
+2021-09-28,Housing rental fee,Rent,530.94,Expense
+2021-09-10,Condo rent transfer,Rent,866.91,Expense
+2021-09-19,General health & fitness transaction,Health & Fitness,750.31,Expense
+2021-09-17,Electricity bill - Hydro One,Utilities,1906.05,Expense
+2021-09-19,Electricity bill - Hydro One,Utilities,1063.63,Expense
+2021-09-11,Monthly salary - Google,Salary,1209.22,Expense
+2021-09-06,Amazon purchase,Shopping,1489.18,Expense
+2021-09-20,General travel transaction,Travel,506.73,Expense
+2021-10-01,Direct deposit - Microsoft,Salary,437.0,Expense
+2021-10-27,Housing rental fee,Rent,259.4,Expense
+2021-10-21,Netflix subscription,Entertainment,1582.84,Expense
+2021-10-24,Electricity bill - Hydro One,Utilities,1227.78,Expense
+2021-10-13,General travel transaction,Travel,1783.75,Expense
+2021-10-20,Housing rental fee,Rent,1970.41,Expense
+2021-10-16,Water services - City of Toronto,Utilities,1589.46,Expense
+2021-10-27,Direct deposit - Microsoft,Salary,1056.13,Expense
+2021-10-07,Freelance payment - Upwork,Salary,408.35,Expense
+2021-10-30,Apartment lease payment,Rent,905.45,Expense
+2021-10-13,General health & fitness transaction,Health & Fitness,1339.0,Expense
+2021-11-26,Mobile phone plan - Bell Canada,Utilities,632.04,Expense
+2021-11-15,Monthly rent payment to landlord,Rent,1010.12,Expense
+2021-11-05,General travel transaction,Travel,337.67,Expense
+2021-11-17,General health & fitness transaction,Health & Fitness,1686.63,Expense
+2021-11-19,Electronics from Best Buy,Shopping,1240.04,Expense
+2021-11-18,General travel transaction,Travel,1305.75,Expense
+2021-11-21,Shoes from Nike Store,Shopping,601.89,Expense
+2021-11-07,General travel transaction,Travel,1693.41,Expense
+2021-11-06,Broadway show tickets,Entertainment,698.59,Expense
+2021-11-03,General health & fitness transaction,Health & Fitness,265.39,Expense
+2021-11-27,General health & fitness transaction,Health & Fitness,1950.99,Expense
+2021-11-10,General travel transaction,Travel,259.09,Expense
+2021-11-18,Drinks at local pub,Food & Drink,171.63,Expense
+2021-11-23,Freelance payment - Upwork,Salary,934.24,Expense
+2021-11-04,Mobile phone plan - Bell Canada,Utilities,1537.89,Expense
+2021-12-26,General health & fitness transaction,Health & Fitness,1512.38,Expense
+2021-12-13,General health & fitness transaction,Health & Fitness,106.83,Expense
+2021-12-08,Electricity bill - Hydro One,Utilities,1628.82,Expense
+2021-12-16,General health & fitness transaction,Health & Fitness,100.03,Expense
+2021-12-23,Monthly rent payment to landlord,Rent,266.04,Expense
+2021-12-09,General health & fitness transaction,Health & Fitness,387.77,Expense
+2021-12-13,Direct deposit - Microsoft,Salary,578.64,Expense
+2021-12-01,General health & fitness transaction,Health & Fitness,491.06,Expense
+2021-12-11,Freelance payment - Upwork,Salary,56.12,Expense
+2021-12-03,Home goods at IKEA,Shopping,504.06,Expense
+2021-12-12,Direct deposit - Microsoft,Salary,1933.71,Expense
+2021-12-20,Apartment lease payment,Rent,778.83,Expense
+2021-12-20,General travel transaction,Travel,1652.37,Expense
+2022-01-23,General travel transaction,Travel,1224.05,Expense
+2022-01-28,Movie night at Cineplex,Entertainment,1883.56,Expense
+2022-01-14,Drinks at local pub,Food & Drink,1149.41,Expense
+2022-01-13,Electronics from Best Buy,Shopping,304.07,Expense
+2022-01-13,Water services - City of Toronto,Utilities,1053.22,Expense
+2022-01-09,Broadway show tickets,Entertainment,1445.59,Expense
+2022-01-05,Dinner at Carbone (fine dining),Food & Drink,743.03,Expense
+2022-01-01,Wages from Apple Inc.,Salary,1043.47,Expense
+2022-01-18,Takeout from Shake Shack,Food & Drink,1414.49,Expense
+2022-01-16,Mobile phone plan - Bell Canada,Utilities,831.79,Expense
+2022-01-06,Clothing at Zara,Shopping,1171.57,Expense
+2022-01-04,Wages from Apple Inc.,Salary,1420.39,Expense
+2022-01-21,General health & fitness transaction,Health & Fitness,1996.26,Expense
+2022-01-03,General health & fitness transaction,Health & Fitness,333.38,Expense
+2022-01-03,General travel transaction,Travel,1191.51,Expense
+2022-01-21,Amazon purchase,Shopping,634.37,Expense
+2022-01-16,Concert tickets - Drake,Entertainment,47.69,Expense
+2022-01-18,Paycheck from Amazon,Salary,1746.91,Expense
+2022-01-08,Lunch at Chipotle,Food & Drink,1197.85,Expense
+2022-02-01,General travel transaction,Travel,1412.75,Expense
+2022-02-08,Housing rental fee,Rent,699.26,Expense
+2022-02-22,Electronics from Best Buy,Shopping,1578.04,Expense
+2022-02-10,General travel transaction,Travel,1866.72,Expense
+2022-02-14,Housing rental fee,Rent,1365.57,Expense
+2022-02-05,General travel transaction,Travel,582.7,Expense
+2022-02-08,General travel transaction,Travel,93.71,Expense
+2022-02-02,Wages from Apple Inc.,Salary,640.91,Expense
+2022-02-09,General travel transaction,Travel,1497.2,Expense
+2022-02-10,Netflix subscription,Entertainment,492.49,Expense
+2022-02-10,Gas bill - Enbridge,Utilities,227.36,Expense
+2022-02-06,General health & fitness transaction,Health & Fitness,1909.67,Expense
+2022-02-17,Brunch at The Smith,Food & Drink,1816.79,Expense
+2022-02-10,Movie night at Cineplex,Entertainment,1279.51,Expense
+2022-02-05,Clothing at Zara,Shopping,1792.56,Expense
+2022-02-17,Wages from Apple Inc.,Salary,960.12,Expense
+2022-02-21,Dinner at Carbone (fine dining),Food & Drink,1827.33,Expense
+2022-03-29,Wages from Apple Inc.,Salary,1619.3,Expense
+2022-03-18,General travel transaction,Travel,1169.1,Expense
+2022-03-07,Netflix subscription,Entertainment,359.23,Expense
+2022-03-07,Takeout from Shake Shack,Food & Drink,1475.87,Expense
+2022-03-22,General travel transaction,Travel,1383.68,Expense
+2022-03-17,Broadway show tickets,Entertainment,23.59,Expense
+2022-03-20,Internet bill - Rogers,Utilities,816.78,Expense
+2022-03-28,Concert tickets - Drake,Entertainment,1149.68,Expense
+2022-03-26,Netflix subscription,Entertainment,1526.1,Expense
+2022-03-14,Condo rent transfer,Rent,807.66,Expense
+2022-03-01,Wages from Apple Inc.,Salary,1779.63,Expense
+2022-03-28,General health & fitness transaction,Health & Fitness,165.42,Expense
+2022-03-27,Housing rental fee,Rent,1055.76,Expense
+2022-03-28,Drinks at local pub,Food & Drink,1659.26,Expense
+2022-03-18,Freelance payment - Upwork,Salary,1509.98,Expense
+2022-03-20,Grocery run at Whole Foods,Food & Drink,1338.89,Expense
+2022-03-12,Home goods at IKEA,Shopping,1655.71,Expense
+2022-03-29,Broadway show tickets,Entertainment,1436.67,Expense
+2022-03-23,Internet bill - Rogers,Utilities,961.58,Expense
+2022-03-31,Amazon purchase,Shopping,516.37,Expense
+2022-04-02,Shoes from Nike Store,Shopping,755.18,Expense
+2022-04-18,Dinner at Carbone (fine dining),Food & Drink,488.93,Expense
+2022-04-05,Mobile phone plan - Bell Canada,Utilities,1985.77,Expense
+2022-04-22,Grocery run at Whole Foods,Food & Drink,497.02,Expense
+2022-04-18,Clothing at Zara,Shopping,1233.7,Expense
+2022-04-10,General health & fitness transaction,Health & Fitness,318.69,Expense
+2022-04-09,Coffee at Starbucks,Food & Drink,1514.8,Expense
+2022-04-02,Water services - City of Toronto,Utilities,1540.25,Expense
+2022-04-24,Dinner at Carbone (fine dining),Food & Drink,288.87,Expense
+2022-04-01,Grocery run at Whole Foods,Food & Drink,1869.82,Expense
+2022-04-04,Electricity bill - Hydro One,Utilities,1310.53,Expense
+2022-04-03,Wages from Apple Inc.,Salary,1740.54,Expense
+2022-04-29,General health & fitness transaction,Health & Fitness,1159.17,Expense
+2022-04-30,General health & fitness transaction,Health & Fitness,481.44,Expense
+2022-04-09,Wages from Apple Inc.,Salary,1350.26,Expense
+2022-04-10,Shoes from Nike Store,Shopping,1648.49,Expense
+2022-04-03,Shoes from Nike Store,Shopping,169.7,Expense
+2022-04-08,Gas bill - Enbridge,Utilities,1458.44,Expense
+2022-04-24,Spotify Premium subscription,Entertainment,1633.41,Expense
+2022-05-02,Internet bill - Rogers,Utilities,1255.73,Expense
+2022-05-22,General health & fitness transaction,Health & Fitness,623.76,Expense
+2022-05-13,General health & fitness transaction,Health & Fitness,613.34,Expense
+2022-05-25,Spotify Premium subscription,Entertainment,1485.09,Expense
+2022-05-09,Monthly rent payment to landlord,Rent,1075.91,Expense
+2022-05-05,Electronics from Best Buy,Shopping,822.44,Expense
+2022-05-24,Wages from Apple Inc.,Salary,1525.64,Expense
+2022-05-03,Direct deposit - Microsoft,Salary,103.3,Expense
+2022-05-11,Dinner at Carbone (fine dining),Food & Drink,1748.5,Expense
+2022-05-19,Concert tickets - Drake,Entertainment,1394.3,Expense
+2022-05-23,Paycheck from Amazon,Salary,937.35,Expense
+2022-05-07,Shoes from Nike Store,Shopping,1119.0,Expense
+2022-05-08,Condo rent transfer,Rent,1845.23,Expense
+2022-05-05,Clothing at Zara,Shopping,1573.75,Expense
+2022-05-07,Direct deposit - Microsoft,Salary,1830.33,Expense
+2022-05-31,Paycheck from Amazon,Salary,376.26,Expense
+2022-05-19,Apartment lease payment,Rent,1496.29,Expense
+2022-05-14,Spotify Premium subscription,Entertainment,1874.95,Expense
+2022-05-30,Freelance payment - Upwork,Salary,927.05,Expense
+2022-05-09,Grocery run at Whole Foods,Food & Drink,544.24,Expense
+2022-06-26,General travel transaction,Travel,1799.63,Expense
+2022-06-04,Dinner at Carbone (fine dining),Food & Drink,830.66,Expense
+2022-06-07,Paycheck from Amazon,Salary,1321.98,Expense
+2022-06-20,Coffee at Starbucks,Food & Drink,196.07,Expense
+2022-06-25,Netflix subscription,Entertainment,430.72,Expense
+2022-06-01,Coffee at Starbucks,Food & Drink,1052.65,Expense
+2022-06-01,Monthly rent payment to landlord,Rent,1890.92,Expense
+2022-06-18,Netflix subscription,Entertainment,1980.56,Expense
+2022-06-04,Netflix subscription,Entertainment,145.26,Expense
+2022-06-12,Shoes from Nike Store,Shopping,1614.27,Expense
+2022-06-26,Drinks at local pub,Food & Drink,366.92,Expense
+2022-06-21,Paycheck from Amazon,Salary,121.67,Expense
+2022-06-17,General health & fitness transaction,Health & Fitness,541.98,Expense
+2022-06-25,Wages from Apple Inc.,Salary,549.48,Expense
+2022-06-17,General health & fitness transaction,Health & Fitness,1919.0,Expense
+2022-06-23,Condo rent transfer,Rent,1790.63,Expense
+2022-06-19,Apartment lease payment,Rent,1310.93,Expense
+2022-06-30,Lunch at Chipotle,Food & Drink,1923.32,Expense
+2022-06-07,Brunch at The Smith,Food & Drink,1239.49,Expense
+2022-06-12,Dinner at Carbone (fine dining),Food & Drink,1009.41,Expense
+2022-07-28,Spotify Premium subscription,Entertainment,1148.2,Expense
+2022-07-04,Coffee at Starbucks,Food & Drink,204.39,Expense
+2022-07-20,Apartment lease payment,Rent,192.13,Expense
+2022-07-13,General travel transaction,Travel,1569.26,Expense
+2022-07-27,Takeout from Shake Shack,Food & Drink,590.78,Expense
+2022-07-17,Movie night at Cineplex,Entertainment,718.06,Expense
+2022-07-19,Internet bill - Rogers,Utilities,1481.91,Expense
+2022-07-31,General travel transaction,Travel,973.62,Expense
+2022-07-02,Netflix subscription,Entertainment,1137.72,Expense
+2022-07-25,Mobile phone plan - Bell Canada,Utilities,183.72,Expense
+2022-07-04,Apartment lease payment,Rent,1006.58,Expense
+2022-07-01,Clothing at Zara,Shopping,1858.46,Expense
+2022-07-18,Concert tickets - Drake,Entertainment,1429.09,Expense
+2022-07-27,Apartment lease payment,Rent,1452.44,Expense
+2022-07-22,Direct deposit - Microsoft,Salary,726.24,Expense
+2022-07-04,General health & fitness transaction,Health & Fitness,773.85,Expense
+2022-07-27,Home goods at IKEA,Shopping,215.55,Expense
+2022-07-17,Amazon purchase,Shopping,180.53,Expense
+2022-07-17,Clothing at Zara,Shopping,379.62,Expense
+2022-07-05,Condo rent transfer,Rent,687.78,Expense
+2022-08-15,Wages from Apple Inc.,Salary,1935.85,Expense
+2022-08-31,Movie night at Cineplex,Entertainment,897.1,Expense
+2022-08-16,Broadway show tickets,Entertainment,1188.53,Expense
+2022-08-29,Shoes from Nike Store,Shopping,1933.95,Expense
+2022-08-17,Takeout from Shake Shack,Food & Drink,1906.48,Expense
+2022-08-26,Housing rental fee,Rent,227.65,Expense
+2022-08-02,Paycheck from Amazon,Salary,1191.67,Expense
+2022-08-06,General health & fitness transaction,Health & Fitness,886.04,Expense
+2022-08-28,General health & fitness transaction,Health & Fitness,341.01,Expense
+2022-08-21,Home goods at IKEA,Shopping,1349.23,Expense
+2022-08-30,Clothing at Zara,Shopping,220.83,Expense
+2022-08-19,Apartment lease payment,Rent,1639.74,Expense
+2022-08-26,General health & fitness transaction,Health & Fitness,1406.25,Expense
+2022-08-15,General health & fitness transaction,Health & Fitness,758.35,Expense
+2022-08-18,Movie night at Cineplex,Entertainment,882.53,Expense
+2022-08-22,Internet bill - Rogers,Utilities,1433.32,Expense
+2022-08-12,Spotify Premium subscription,Entertainment,963.23,Expense
+2022-08-07,Internet bill - Rogers,Utilities,607.87,Expense
+2022-08-23,Amazon purchase,Shopping,1073.39,Expense
+2022-08-16,Home goods at IKEA,Shopping,736.38,Expense
+2022-09-26,Electricity bill - Hydro One,Utilities,633.24,Expense
+2022-09-28,Shoes from Nike Store,Shopping,842.3,Expense
+2022-09-15,Mobile phone plan - Bell Canada,Utilities,737.93,Expense
+2022-09-19,Amazon purchase,Shopping,1226.5,Expense
+2022-09-03,Mobile phone plan - Bell Canada,Utilities,703.17,Expense
+2022-09-14,Lunch at Chipotle,Food & Drink,1412.42,Expense
+2022-09-18,Paycheck from Amazon,Salary,1060.15,Expense
+2022-09-21,Water services - City of Toronto,Utilities,1629.34,Expense
+2022-09-11,Clothing at Zara,Shopping,68.09,Expense
+2022-09-26,Apartment lease payment,Rent,374.26,Expense
+2022-09-03,Netflix subscription,Entertainment,1047.02,Expense
+2022-09-03,Condo rent transfer,Rent,240.98,Expense
+2022-09-15,Condo rent transfer,Rent,1158.92,Expense
+2022-09-04,General health & fitness transaction,Health & Fitness,143.68,Expense
+2022-09-10,Direct deposit - Microsoft,Salary,471.39,Expense
+2022-09-12,Broadway show tickets,Entertainment,904.65,Expense
+2022-09-06,Monthly rent payment to landlord,Rent,1357.51,Expense
+2022-09-01,Electricity bill - Hydro One,Utilities,696.49,Expense
+2022-09-23,General travel transaction,Travel,1838.18,Expense
+2022-09-11,Gas bill - Enbridge,Utilities,380.91,Expense
+2022-10-02,Freelance payment - Upwork,Salary,281.7,Expense
+2022-10-01,Dinner at Carbone (fine dining),Food & Drink,1732.39,Expense
+2022-10-04,Freelance payment - Upwork,Salary,982.51,Expense
+2022-10-31,Electricity bill - Hydro One,Utilities,654.07,Expense
+2022-10-30,General health & fitness transaction,Health & Fitness,1069.24,Expense
+2022-10-03,Paycheck from Amazon,Salary,824.18,Expense
+2022-10-22,Movie night at Cineplex,Entertainment,427.66,Expense
+2022-10-19,Condo rent transfer,Rent,1474.62,Expense
+2022-10-25,Clothing at Zara,Shopping,340.3,Expense
+2022-10-23,General health & fitness transaction,Health & Fitness,1723.49,Expense
+2022-10-12,General health & fitness transaction,Health & Fitness,1088.67,Expense
+2022-10-21,Condo rent transfer,Rent,883.75,Expense
+2022-10-19,Spotify Premium subscription,Entertainment,602.44,Expense
+2022-10-13,Wages from Apple Inc.,Salary,1097.24,Expense
+2022-10-05,General travel transaction,Travel,457.44,Expense
+2022-10-20,Direct deposit - Microsoft,Salary,533.0,Expense
+2022-10-10,Freelance payment - Upwork,Salary,1103.96,Expense
+2022-10-08,Paycheck from Amazon,Salary,1135.64,Expense
+2022-11-21,General travel transaction,Travel,682.13,Expense
+2022-11-15,Grocery run at Whole Foods,Food & Drink,1739.13,Expense
+2022-11-28,Electricity bill - Hydro One,Utilities,888.16,Expense
+2022-11-03,General travel transaction,Travel,1149.74,Expense
+2022-11-26,Freelance payment - Upwork,Salary,42.4,Expense
+2022-11-10,General travel transaction,Travel,1259.35,Expense
+2022-11-07,Water services - City of Toronto,Utilities,1405.84,Expense
+2022-11-18,Home goods at IKEA,Shopping,443.48,Expense
+2022-11-26,Dinner at Carbone (fine dining),Food & Drink,101.43,Expense
+2022-11-17,Housing rental fee,Rent,1464.55,Expense
+2022-11-14,Apartment lease payment,Rent,811.67,Expense
+2022-11-22,Monthly salary - Google,Salary,1578.72,Expense
+2022-11-17,General health & fitness transaction,Health & Fitness,1701.71,Expense
+2022-11-14,General health & fitness transaction,Health & Fitness,914.84,Expense
+2022-11-04,Monthly rent payment to landlord,Rent,279.82,Expense
+2022-11-05,Electronics from Best Buy,Shopping,1838.35,Expense
+2022-11-09,Home goods at IKEA,Shopping,984.02,Expense
+2022-11-13,Housing rental fee,Rent,1270.92,Expense
+2022-11-19,Broadway show tickets,Entertainment,994.48,Expense
+2022-12-16,Water services - City of Toronto,Utilities,960.62,Expense
+2022-12-18,Monthly rent payment to landlord,Rent,1464.22,Expense
+2022-12-30,Electricity bill - Hydro One,Utilities,1286.74,Expense
+2022-12-12,Housing rental fee,Rent,274.07,Expense
+2022-12-01,Mobile phone plan - Bell Canada,Utilities,1765.47,Expense
+2022-12-28,Gas bill - Enbridge,Utilities,771.61,Expense
+2022-12-31,Condo rent transfer,Rent,1065.71,Expense
+2022-12-04,Condo rent transfer,Rent,749.97,Expense
+2022-12-03,General travel transaction,Travel,195.75,Expense
+2022-12-05,Broadway show tickets,Entertainment,864.17,Expense
+2022-12-13,Direct deposit - Microsoft,Salary,28.48,Expense
+2022-12-05,Internet bill - Rogers,Utilities,113.06,Expense
+2022-12-15,Monthly rent payment to landlord,Rent,1976.43,Expense
+2023-01-19,Clothing at Zara,Shopping,737.17,Expense
+2023-01-06,Condo rent transfer,Rent,1794.22,Expense
+2023-01-27,Brunch at The Smith,Food & Drink,676.67,Expense
+2023-01-19,Drinks at local pub,Food & Drink,1973.9,Expense
+2023-01-21,Shoes from Nike Store,Shopping,1018.16,Expense
+2023-01-13,General travel transaction,Travel,1560.15,Expense
+2023-01-23,Movie night at Cineplex,Entertainment,1948.88,Expense
+2023-01-27,Condo rent transfer,Rent,533.27,Expense
+2023-01-10,Home goods at IKEA,Shopping,635.86,Expense
+2023-01-04,Movie night at Cineplex,Entertainment,1259.88,Expense
+2023-01-23,Internet bill - Rogers,Utilities,562.16,Expense
+2023-01-15,General travel transaction,Travel,418.84,Expense
+2023-01-31,Brunch at The Smith,Food & Drink,1718.79,Expense
+2023-01-24,Concert tickets - Drake,Entertainment,125.23,Expense
+2023-01-16,Spotify Premium subscription,Entertainment,1498.21,Expense
+2023-01-24,Apartment lease payment,Rent,627.24,Expense
+2023-01-17,Grocery run at Whole Foods,Food & Drink,1569.77,Expense
+2023-01-24,Internet bill - Rogers,Utilities,247.69,Expense
+2023-01-18,Netflix subscription,Entertainment,994.83,Expense
+2023-01-19,Monthly salary - Google,Salary,1909.36,Expense
+2023-02-13,General travel transaction,Travel,1481.76,Expense
+2023-02-26,General health & fitness transaction,Health & Fitness,922.33,Expense
+2023-02-20,Brunch at The Smith,Food & Drink,473.67,Expense
+2023-02-07,Takeout from Shake Shack,Food & Drink,366.9,Expense
+2023-02-08,Lunch at Chipotle,Food & Drink,1908.62,Expense
+2023-02-18,Broadway show tickets,Entertainment,309.63,Expense
+2023-02-20,Brunch at The Smith,Food & Drink,1902.47,Expense
+2023-02-03,Shoes from Nike Store,Shopping,456.79,Expense
+2023-02-12,Lunch at Chipotle,Food & Drink,744.15,Expense
+2023-02-06,General health & fitness transaction,Health & Fitness,549.8,Expense
+2023-02-09,General travel transaction,Travel,661.33,Expense
+2023-02-24,Brunch at The Smith,Food & Drink,1945.39,Expense
+2023-02-01,Internet bill - Rogers,Utilities,366.13,Expense
+2023-02-02,Takeout from Shake Shack,Food & Drink,1110.2,Expense
+2023-02-16,Concert tickets - Drake,Entertainment,1467.6,Expense
+2023-02-28,Monthly rent payment to landlord,Rent,1015.8,Expense
+2023-02-15,General health & fitness transaction,Health & Fitness,1187.46,Expense
+2023-03-05,General health & fitness transaction,Health & Fitness,910.99,Expense
+2023-03-29,Paycheck from Amazon,Salary,1768.01,Expense
+2023-03-16,Internet bill - Rogers,Utilities,251.69,Expense
+2023-03-21,Condo rent transfer,Rent,53.38,Expense
+2023-03-05,Amazon purchase,Shopping,1404.44,Expense
+2023-03-18,Apartment lease payment,Rent,1168.82,Expense
+2023-03-31,Water services - City of Toronto,Utilities,844.28,Expense
+2023-03-03,Shoes from Nike Store,Shopping,1328.26,Expense
+2023-03-24,Clothing at Zara,Shopping,1369.59,Expense
+2023-03-07,Spotify Premium subscription,Entertainment,280.86,Expense
+2023-03-10,Coffee at Starbucks,Food & Drink,437.89,Expense
+2023-03-03,Electronics from Best Buy,Shopping,158.91,Expense
+2023-03-08,General travel transaction,Travel,932.06,Expense
+2023-03-10,Condo rent transfer,Rent,323.65,Expense
+2023-03-31,Paycheck from Amazon,Salary,131.35,Expense
+2023-03-15,Freelance payment - Upwork,Salary,1116.35,Expense
+2023-03-13,General health & fitness transaction,Health & Fitness,798.53,Expense
+2023-03-08,General health & fitness transaction,Health & Fitness,1929.62,Expense
+2023-03-13,Mobile phone plan - Bell Canada,Utilities,71.85,Expense
+2023-03-08,Condo rent transfer,Rent,319.27,Expense
+2023-04-21,General health & fitness transaction,Health & Fitness,1828.82,Expense
+2023-04-23,Freelance payment - Upwork,Salary,1088.83,Expense
+2023-04-08,Amazon purchase,Shopping,548.17,Expense
+2023-04-01,Coffee at Starbucks,Food & Drink,1978.91,Expense
+2023-04-04,General health & fitness transaction,Health & Fitness,964.57,Expense
+2023-04-16,Lunch at Chipotle,Food & Drink,1530.46,Expense
+2023-04-22,Movie night at Cineplex,Entertainment,1675.03,Expense
+2023-04-07,General health & fitness transaction,Health & Fitness,1826.23,Expense
+2023-04-20,Amazon purchase,Shopping,716.06,Expense
+2023-04-20,Mobile phone plan - Bell Canada,Utilities,360.44,Expense
+2023-04-01,Spotify Premium subscription,Entertainment,1265.2,Expense
+2023-04-13,Water services - City of Toronto,Utilities,209.27,Expense
+2023-04-10,General travel transaction,Travel,126.6,Expense
+2023-04-15,General travel transaction,Travel,1072.04,Expense
+2023-04-10,General health & fitness transaction,Health & Fitness,1536.02,Expense
+2023-05-22,Monthly rent payment to landlord,Rent,1443.62,Expense
+2023-05-02,Electricity bill - Hydro One,Utilities,688.11,Expense
+2023-05-20,General health & fitness transaction,Health & Fitness,898.79,Expense
+2023-05-22,Amazon purchase,Shopping,991.23,Expense
+2023-05-07,General health & fitness transaction,Health & Fitness,281.54,Expense
+2023-05-20,Spotify Premium subscription,Entertainment,1389.42,Expense
+2023-05-05,Amazon purchase,Shopping,1176.17,Expense
+2023-05-15,General travel transaction,Travel,263.42,Expense
+2023-05-25,Electronics from Best Buy,Shopping,211.84,Expense
+2023-05-19,Condo rent transfer,Rent,483.61,Expense
+2023-05-15,Home goods at IKEA,Shopping,1703.01,Expense
+2023-05-14,Gas bill - Enbridge,Utilities,762.98,Expense
+2023-05-05,General health & fitness transaction,Health & Fitness,1921.51,Expense
+2023-05-14,Electricity bill - Hydro One,Utilities,1417.29,Expense
+2023-05-14,General health & fitness transaction,Health & Fitness,454.24,Expense
+2023-05-16,Dinner at Carbone (fine dining),Food & Drink,372.34,Expense
+2023-05-17,Broadway show tickets,Entertainment,1282.9,Expense
+2023-05-20,Water services - City of Toronto,Utilities,1276.01,Expense
+2023-05-02,Dinner at Carbone (fine dining),Food & Drink,670.15,Expense
+2023-05-28,Spotify Premium subscription,Entertainment,333.69,Expense
+2023-06-08,Spotify Premium subscription,Entertainment,824.47,Expense
+2023-06-16,Shoes from Nike Store,Shopping,947.18,Expense
+2023-06-09,General travel transaction,Travel,1324.59,Expense
+2023-06-03,Condo rent transfer,Rent,682.52,Expense
+2023-06-25,Brunch at The Smith,Food & Drink,1683.19,Expense
+2023-06-09,Housing rental fee,Rent,108.77,Expense
+2023-06-17,Electricity bill - Hydro One,Utilities,748.33,Expense
+2023-06-05,Gas bill - Enbridge,Utilities,1218.56,Expense
+2023-06-10,Home goods at IKEA,Shopping,184.38,Expense
+2023-06-25,Home goods at IKEA,Shopping,1931.6,Expense
+2023-06-21,Wages from Apple Inc.,Salary,534.17,Expense
+2023-06-16,Direct deposit - Microsoft,Salary,1689.1,Expense
+2023-06-22,Monthly rent payment to landlord,Rent,180.56,Expense
+2023-06-19,Gas bill - Enbridge,Utilities,897.09,Expense
+2023-06-26,General travel transaction,Travel,167.12,Expense
+2023-06-04,Paycheck from Amazon,Salary,1411.96,Expense
+2023-06-23,Clothing at Zara,Shopping,1941.7,Expense
+2023-06-30,Dinner at Carbone (fine dining),Food & Drink,1009.18,Expense
+2023-06-22,Lunch at Chipotle,Food & Drink,310.75,Expense
+2023-06-10,Freelance payment - Upwork,Salary,315.64,Expense
+2023-07-23,General health & fitness transaction,Health & Fitness,1643.82,Expense
+2023-07-25,Internet bill - Rogers,Utilities,140.58,Expense
+2023-07-27,Spotify Premium subscription,Entertainment,1675.58,Expense
+2023-07-18,Monthly rent payment to landlord,Rent,1945.27,Expense
+2023-07-17,General travel transaction,Travel,567.89,Expense
+2023-07-01,Electricity bill - Hydro One,Utilities,249.36,Expense
+2023-07-15,Wages from Apple Inc.,Salary,1148.33,Expense
+2023-07-20,Monthly rent payment to landlord,Rent,383.99,Expense
+2023-07-15,Internet bill - Rogers,Utilities,558.07,Expense
+2023-07-27,Grocery run at Whole Foods,Food & Drink,355.74,Expense
+2023-07-30,Wages from Apple Inc.,Salary,110.61,Expense
+2023-07-07,Monthly rent payment to landlord,Rent,183.18,Expense
+2023-07-02,Internet bill - Rogers,Utilities,1898.63,Expense
+2023-07-10,Clothing at Zara,Shopping,233.91,Expense
+2023-07-19,General health & fitness transaction,Health & Fitness,546.15,Expense
+2023-07-10,Dinner at Carbone (fine dining),Food & Drink,1575.24,Expense
+2023-07-11,Monthly rent payment to landlord,Rent,1573.63,Expense
+2023-07-16,Grocery run at Whole Foods,Food & Drink,682.35,Expense
+2023-07-13,General health & fitness transaction,Health & Fitness,1757.01,Expense
+2023-07-26,Amazon purchase,Shopping,279.94,Expense
+2023-08-09,General travel transaction,Travel,1500.43,Expense
+2023-08-04,Amazon purchase,Shopping,1274.47,Expense
+2023-08-30,General travel transaction,Travel,1315.68,Expense
+2023-08-07,General health & fitness transaction,Health & Fitness,695.06,Expense
+2023-08-09,General travel transaction,Travel,64.63,Expense
+2023-08-23,General travel transaction,Travel,1357.62,Expense
+2023-08-10,Concert tickets - Drake,Entertainment,545.48,Expense
+2023-08-11,Takeout from Shake Shack,Food & Drink,1730.61,Expense
+2023-08-01,Movie night at Cineplex,Entertainment,555.22,Expense
+2023-08-30,Monthly rent payment to landlord,Rent,968.66,Expense
+2023-08-21,General travel transaction,Travel,853.38,Expense
+2023-08-25,Shoes from Nike Store,Shopping,1173.13,Expense
+2023-08-30,General travel transaction,Travel,384.84,Expense
+2023-08-16,Takeout from Shake Shack,Food & Drink,953.45,Expense
+2023-08-30,General travel transaction,Travel,1284.78,Expense
+2023-08-17,General travel transaction,Travel,1428.35,Expense
+2023-08-07,Freelance payment - Upwork,Salary,363.39,Expense
+2023-08-22,General health & fitness transaction,Health & Fitness,923.41,Expense
+2023-09-16,Wages from Apple Inc.,Salary,295.02,Expense
+2023-09-04,Takeout from Shake Shack,Food & Drink,1170.22,Expense
+2023-09-04,General travel transaction,Travel,1814.75,Expense
+2023-09-21,Mobile phone plan - Bell Canada,Utilities,633.69,Expense
+2023-09-10,General travel transaction,Travel,1692.38,Expense
+2023-09-11,Internet bill - Rogers,Utilities,594.63,Expense
+2023-09-01,Broadway show tickets,Entertainment,1800.38,Expense
+2023-09-29,Clothing at Zara,Shopping,812.75,Expense
+2023-09-11,General travel transaction,Travel,1453.12,Expense
+2023-09-07,Direct deposit - Microsoft,Salary,1813.99,Expense
+2023-09-21,Mobile phone plan - Bell Canada,Utilities,1560.09,Expense
+2023-09-15,Home goods at IKEA,Shopping,117.58,Expense
+2023-09-03,Drinks at local pub,Food & Drink,1314.25,Expense
+2023-09-04,Netflix subscription,Entertainment,692.9,Expense
+2023-09-14,General health & fitness transaction,Health & Fitness,528.51,Expense
+2023-09-12,Condo rent transfer,Rent,452.28,Expense
+2023-09-13,General travel transaction,Travel,846.74,Expense
+2023-09-12,Mobile phone plan - Bell Canada,Utilities,1894.38,Expense
+2023-09-01,Shoes from Nike Store,Shopping,1324.46,Expense
+2023-09-16,Water services - City of Toronto,Utilities,1984.77,Expense
+2023-10-11,General health & fitness transaction,Health & Fitness,1502.73,Expense
+2023-10-17,Condo rent transfer,Rent,1099.09,Expense
+2023-10-06,General health & fitness transaction,Health & Fitness,631.06,Expense
+2023-10-04,General health & fitness transaction,Health & Fitness,1900.64,Expense
+2023-10-08,Freelance payment - Upwork,Salary,1458.39,Expense
+2023-10-03,Home goods at IKEA,Shopping,19.29,Expense
+2023-10-14,Internet bill - Rogers,Utilities,430.27,Expense
+2023-10-15,Takeout from Shake Shack,Food & Drink,756.63,Expense
+2023-10-15,Brunch at The Smith,Food & Drink,1191.91,Expense
+2023-10-30,Shoes from Nike Store,Shopping,1663.0,Expense
+2023-10-27,Water services - City of Toronto,Utilities,418.93,Expense
+2023-10-27,Takeout from Shake Shack,Food & Drink,609.22,Expense
+2023-10-29,General travel transaction,Travel,1249.37,Expense
+2023-10-09,General health & fitness transaction,Health & Fitness,872.99,Expense
+2023-10-09,Electricity bill - Hydro One,Utilities,692.04,Expense
+2023-10-04,Concert tickets - Drake,Entertainment,45.65,Expense
+2023-11-27,Monthly salary - Google,Salary,370.71,Expense
+2023-11-21,Wages from Apple Inc.,Salary,1910.63,Expense
+2023-11-23,General travel transaction,Travel,1673.06,Expense
+2023-11-08,Broadway show tickets,Entertainment,722.26,Expense
+2023-11-17,Monthly rent payment to landlord,Rent,199.05,Expense
+2023-11-26,Grocery run at Whole Foods,Food & Drink,1963.32,Expense
+2023-11-26,Freelance payment - Upwork,Salary,1601.8,Expense
+2023-11-11,Internet bill - Rogers,Utilities,1899.4,Expense
+2023-11-27,General health & fitness transaction,Health & Fitness,1226.6,Expense
+2023-11-23,Monthly rent payment to landlord,Rent,807.55,Expense
+2023-11-08,Movie night at Cineplex,Entertainment,1379.53,Expense
+2023-11-09,Broadway show tickets,Entertainment,15.45,Expense
+2023-11-09,Housing rental fee,Rent,1672.11,Expense
+2023-11-26,Monthly rent payment to landlord,Rent,837.9,Expense
+2023-11-28,Gas bill - Enbridge,Utilities,971.33,Expense
+2023-11-26,Electricity bill - Hydro One,Utilities,234.98,Expense
+2023-11-15,General health & fitness transaction,Health & Fitness,1605.18,Expense
+2023-11-28,Amazon purchase,Shopping,886.97,Expense
+2023-11-14,General travel transaction,Travel,535.61,Expense
+2023-11-18,Grocery run at Whole Foods,Food & Drink,29.25,Expense
+2023-12-09,Clothing at Zara,Shopping,305.82,Expense
+2023-12-20,General health & fitness transaction,Health & Fitness,246.23,Expense
+2023-12-06,Condo rent transfer,Rent,871.37,Expense
+2023-12-25,Monthly salary - Google,Salary,1901.21,Expense
+2023-12-05,General health & fitness transaction,Health & Fitness,1043.01,Expense
+2023-12-18,Paycheck from Amazon,Salary,185.16,Expense
+2023-12-08,Freelance payment - Upwork,Salary,698.04,Expense
+2023-12-23,General travel transaction,Travel,1781.32,Expense
+2023-12-11,Housing rental fee,Rent,1505.35,Expense
+2023-12-22,Drinks at local pub,Food & Drink,1653.56,Expense
+2023-12-05,Netflix subscription,Entertainment,1956.01,Expense
+2023-12-13,General health & fitness transaction,Health & Fitness,1940.59,Expense
+2023-12-29,Movie night at Cineplex,Entertainment,14.37,Expense
+2023-12-21,Brunch at The Smith,Food & Drink,214.26,Expense
+2023-12-29,Monthly salary - Google,Salary,1436.15,Expense
+2023-12-27,General health & fitness transaction,Health & Fitness,1124.7,Expense
+2023-12-10,Freelance payment - Upwork,Salary,1705.22,Expense
+2023-12-14,Netflix subscription,Entertainment,166.87,Expense
+2023-12-29,Wages from Apple Inc.,Salary,236.91,Expense
+2023-12-09,Grocery run at Whole Foods,Food & Drink,33.17,Expense
+2024-01-02,Apartment lease payment,Rent,101.1,Expense
+2024-01-20,Monthly salary - Google,Salary,1169.78,Expense
+2024-01-16,General health & fitness transaction,Health & Fitness,1426.63,Expense
+2024-01-19,Water services - City of Toronto,Utilities,1962.86,Expense
+2024-01-30,Concert tickets - Drake,Entertainment,1026.74,Expense
+2024-01-22,Amazon purchase,Shopping,1351.74,Expense
+2024-01-26,Spotify Premium subscription,Entertainment,541.29,Expense
+2024-01-11,Electricity bill - Hydro One,Utilities,1928.07,Expense
+2024-01-11,Monthly salary - Google,Salary,1849.5,Expense
+2024-01-19,Water services - City of Toronto,Utilities,1012.75,Expense
+2024-01-26,General travel transaction,Travel,1369.95,Expense
+2024-01-27,Coffee at Starbucks,Food & Drink,723.78,Expense
+2024-01-23,General travel transaction,Travel,1756.18,Expense
+2024-01-24,Drinks at local pub,Food & Drink,1050.23,Expense
+2024-01-19,General health & fitness transaction,Health & Fitness,1423.6,Expense
+2024-01-17,Spotify Premium subscription,Entertainment,409.77,Expense
+2024-01-15,Netflix subscription,Entertainment,554.46,Expense
+2024-01-10,Monthly rent payment to landlord,Rent,1546.57,Expense
+2024-01-28,Movie night at Cineplex,Entertainment,1487.4,Expense
+2024-01-16,General travel transaction,Travel,911.16,Expense
+2024-02-01,General travel transaction,Travel,1388.94,Expense
+2024-02-21,General health & fitness transaction,Health & Fitness,155.03,Expense
+2024-02-14,General travel transaction,Travel,903.14,Expense
+2024-02-27,Spotify Premium subscription,Entertainment,1918.2,Expense
+2024-02-24,General health & fitness transaction,Health & Fitness,668.82,Expense
+2024-02-24,Monthly salary - Google,Salary,1993.3,Expense
+2024-02-19,Mobile phone plan - Bell Canada,Utilities,89.48,Expense
+2024-02-23,Gas bill - Enbridge,Utilities,837.7,Expense
+2024-02-27,Concert tickets - Drake,Entertainment,1809.95,Expense
+2024-02-25,Drinks at local pub,Food & Drink,238.3,Expense
+2024-02-29,General travel transaction,Travel,59.16,Expense
+2024-02-23,Apartment lease payment,Rent,705.31,Expense
+2024-02-28,Housing rental fee,Rent,777.89,Expense
+2024-02-21,General travel transaction,Travel,986.2,Expense
+2024-02-10,General health & fitness transaction,Health & Fitness,1512.66,Expense
+2024-02-14,Monthly rent payment to landlord,Rent,382.08,Expense
+2024-02-22,Broadway show tickets,Entertainment,1914.41,Expense
+2024-02-07,General health & fitness transaction,Health & Fitness,1932.01,Expense
+2024-02-27,General health & fitness transaction,Health & Fitness,768.93,Expense
+2024-02-10,Wages from Apple Inc.,Salary,1661.67,Expense
+2024-03-07,Clothing at Zara,Shopping,1296.66,Expense
+2024-03-07,Internet bill - Rogers,Utilities,57.27,Expense
+2024-03-05,Concert tickets - Drake,Entertainment,647.42,Expense
+2024-03-26,Lunch at Chipotle,Food & Drink,1404.76,Expense
+2024-03-06,Movie night at Cineplex,Entertainment,1731.25,Expense
+2024-03-13,Broadway show tickets,Entertainment,1822.86,Expense
+2024-03-08,Grocery run at Whole Foods,Food & Drink,184.17,Expense
+2024-03-06,Apartment lease payment,Rent,419.1,Expense
+2024-03-02,General health & fitness transaction,Health & Fitness,1033.48,Expense
+2024-03-16,Grocery run at Whole Foods,Food & Drink,785.11,Expense
+2024-03-30,Water services - City of Toronto,Utilities,1496.04,Expense
+2024-03-29,Freelance payment - Upwork,Salary,769.01,Expense
+2024-03-30,Lunch at Chipotle,Food & Drink,953.24,Expense
+2024-03-03,Paycheck from Amazon,Salary,97.26,Expense
+2024-03-06,Lunch at Chipotle,Food & Drink,1257.6,Expense
+2024-03-15,Paycheck from Amazon,Salary,1264.13,Expense
+2024-03-28,General travel transaction,Travel,1217.07,Expense
+2024-04-16,Paycheck from Amazon,Salary,1903.56,Expense
+2024-04-09,Gas bill - Enbridge,Utilities,330.3,Expense
+2024-04-20,Water services - City of Toronto,Utilities,19.62,Expense
+2024-04-17,Concert tickets - Drake,Entertainment,642.39,Expense
+2024-04-06,Internet bill - Rogers,Utilities,255.24,Expense
+2024-04-11,Monthly rent payment to landlord,Rent,588.4,Expense
+2024-04-22,General travel transaction,Travel,1681.82,Expense
+2024-04-17,Movie night at Cineplex,Entertainment,209.09,Expense
+2024-04-08,Monthly rent payment to landlord,Rent,616.34,Expense
+2024-04-03,General travel transaction,Travel,1920.67,Expense
+2024-04-26,General travel transaction,Travel,1718.84,Expense
+2024-04-21,Concert tickets - Drake,Entertainment,1427.28,Expense
+2024-04-09,General health & fitness transaction,Health & Fitness,431.36,Expense
+2024-04-25,General health & fitness transaction,Health & Fitness,1551.79,Expense
+2024-04-10,General travel transaction,Travel,396.71,Expense
+2024-04-26,Housing rental fee,Rent,359.78,Expense
+2024-04-17,General travel transaction,Travel,1389.98,Expense
+2024-05-04,Spotify Premium subscription,Entertainment,1813.54,Expense
+2024-05-02,Apartment lease payment,Rent,1457.58,Expense
+2024-05-25,Concert tickets - Drake,Entertainment,135.09,Expense
+2024-05-14,Condo rent transfer,Rent,799.6,Expense
+2024-05-15,Concert tickets - Drake,Entertainment,1697.48,Expense
+2024-05-23,General health & fitness transaction,Health & Fitness,90.44,Expense
+2024-05-03,Brunch at The Smith,Food & Drink,1627.16,Expense
+2024-05-27,Lunch at Chipotle,Food & Drink,89.41,Expense
+2024-05-17,Water services - City of Toronto,Utilities,1516.84,Expense
+2024-05-05,General travel transaction,Travel,276.42,Expense
+2024-05-27,General health & fitness transaction,Health & Fitness,782.31,Expense
+2024-05-04,Wages from Apple Inc.,Salary,1311.28,Expense
+2024-05-22,Gas bill - Enbridge,Utilities,1474.48,Expense
+2024-05-26,Grocery run at Whole Foods,Food & Drink,1340.49,Expense
+2024-05-31,Apartment lease payment,Rent,1410.44,Expense
+2024-06-23,Water services - City of Toronto,Utilities,1250.19,Expense
+2024-06-21,Grocery run at Whole Foods,Food & Drink,1758.23,Expense
+2024-06-03,Concert tickets - Drake,Entertainment,1037.58,Expense
+2024-06-02,Water services - City of Toronto,Utilities,759.55,Expense
+2024-06-01,General travel transaction,Travel,1671.4,Expense
+2024-06-23,Wages from Apple Inc.,Salary,1735.93,Expense
+2024-06-14,Electronics from Best Buy,Shopping,54.67,Expense
+2024-06-13,Paycheck from Amazon,Salary,963.25,Expense
+2024-06-04,General health & fitness transaction,Health & Fitness,978.85,Expense
+2024-06-21,Clothing at Zara,Shopping,1202.72,Expense
+2024-06-06,Dinner at Carbone (fine dining),Food & Drink,1008.66,Expense
+2024-06-12,Monthly rent payment to landlord,Rent,1325.61,Expense
+2024-06-02,Housing rental fee,Rent,1038.16,Expense
+2024-06-16,Takeout from Shake Shack,Food & Drink,1782.69,Expense
+2024-06-13,General health & fitness transaction,Health & Fitness,1443.31,Expense
+2024-06-23,Gas bill - Enbridge,Utilities,1451.13,Expense
+2024-06-23,Paycheck from Amazon,Salary,1197.1,Expense
+2024-06-22,General travel transaction,Travel,1895.04,Expense
+2024-07-26,Monthly salary - Google,Salary,365.65,Expense
+2024-07-27,Monthly salary - Google,Salary,515.02,Expense
+2024-07-06,Electronics from Best Buy,Shopping,1654.76,Expense
+2024-07-07,Coffee at Starbucks,Food & Drink,1756.73,Expense
+2024-07-25,General health & fitness transaction,Health & Fitness,823.6,Expense
+2024-07-16,Paycheck from Amazon,Salary,1581.22,Expense
+2024-07-29,General health & fitness transaction,Health & Fitness,1603.7,Expense
+2024-07-30,Monthly salary - Google,Salary,1852.46,Expense
+2024-07-13,Takeout from Shake Shack,Food & Drink,1398.31,Expense
+2024-07-07,Mobile phone plan - Bell Canada,Utilities,956.98,Expense
+2024-07-26,Shoes from Nike Store,Shopping,1512.39,Expense
+2024-07-20,Housing rental fee,Rent,856.72,Expense
+2024-07-27,General health & fitness transaction,Health & Fitness,1550.65,Expense
+2024-07-13,Amazon purchase,Shopping,1048.87,Expense
+2024-07-29,Lunch at Chipotle,Food & Drink,1610.7,Expense
+2024-07-30,Housing rental fee,Rent,533.55,Expense
+2024-07-07,Housing rental fee,Rent,195.45,Expense
+2024-07-21,Spotify Premium subscription,Entertainment,1821.07,Expense
+2024-07-28,Internet bill - Rogers,Utilities,209.55,Expense
+2024-07-28,Broadway show tickets,Entertainment,898.72,Expense
+2024-08-27,Freelance payment - Upwork,Salary,1542.23,Expense
+2024-08-28,Grocery run at Whole Foods,Food & Drink,969.12,Expense
+2024-08-27,General travel transaction,Travel,1391.44,Expense
+2024-08-14,Broadway show tickets,Entertainment,1040.31,Expense
+2024-08-15,General health & fitness transaction,Health & Fitness,701.48,Expense
+2024-08-01,Drinks at local pub,Food & Drink,1451.74,Expense
+2024-08-02,Coffee at Starbucks,Food & Drink,1891.97,Expense
+2024-08-03,Wages from Apple Inc.,Salary,883.55,Expense
+2024-08-30,Concert tickets - Drake,Entertainment,1602.32,Expense
+2024-08-09,General health & fitness transaction,Health & Fitness,486.12,Expense
+2024-08-08,Movie night at Cineplex,Entertainment,1234.23,Expense
+2024-08-28,Amazon purchase,Shopping,1270.99,Expense
+2024-08-25,General travel transaction,Travel,686.53,Expense
+2024-08-02,Home goods at IKEA,Shopping,1231.79,Expense
+2024-08-28,Freelance payment - Upwork,Salary,1366.37,Expense
+2024-08-25,Clothing at Zara,Shopping,1017.41,Expense
+2024-08-14,Monthly rent payment to landlord,Rent,1839.16,Expense
+2024-08-22,Spotify Premium subscription,Entertainment,1216.66,Expense
+2024-08-03,General travel transaction,Travel,397.55,Expense
+2024-08-14,Electronics from Best Buy,Shopping,712.72,Expense
+2024-09-17,Gas bill - Enbridge,Utilities,117.75,Expense
+2024-09-24,Dinner at Carbone (fine dining),Food & Drink,1351.47,Expense
+2024-09-01,General health & fitness transaction,Health & Fitness,1037.84,Expense
+2024-09-27,Amazon purchase,Shopping,1404.42,Expense
+2024-09-18,Wages from Apple Inc.,Salary,1879.91,Expense
+2024-09-16,General health & fitness transaction,Health & Fitness,989.76,Expense
+2024-09-05,General travel transaction,Travel,373.74,Expense
+2024-09-10,General health & fitness transaction,Health & Fitness,320.43,Expense
+2024-09-05,Clothing at Zara,Shopping,1350.66,Expense
+2024-09-17,General travel transaction,Travel,801.78,Expense
+2024-09-05,Apartment lease payment,Rent,1113.56,Expense
+2024-09-08,Movie night at Cineplex,Entertainment,1671.53,Expense
+2024-09-26,General travel transaction,Travel,382.43,Expense
+2024-09-22,Water services - City of Toronto,Utilities,919.82,Expense
+2024-09-27,General health & fitness transaction,Health & Fitness,375.99,Expense
+2024-09-25,Condo rent transfer,Rent,657.62,Expense
+2024-09-26,General travel transaction,Travel,947.98,Expense
+2024-09-17,General travel transaction,Travel,986.7,Expense
+2024-09-06,Netflix subscription,Entertainment,1003.01,Expense
+2024-09-15,Drinks at local pub,Food & Drink,1697.54,Expense
+2024-10-21,Apartment lease payment,Rent,167.43,Expense
+2024-10-07,Grocery run at Whole Foods,Food & Drink,802.82,Expense
+2024-10-02,General travel transaction,Travel,1610.13,Expense
+2024-10-10,General travel transaction,Travel,694.84,Expense
+2024-10-21,General travel transaction,Travel,1214.72,Expense
+2024-10-12,Broadway show tickets,Entertainment,1157.94,Expense
+2024-10-11,General health & fitness transaction,Health & Fitness,1736.06,Expense
+2024-10-02,Shoes from Nike Store,Shopping,400.17,Expense
+2024-10-09,Housing rental fee,Rent,905.21,Expense
+2024-10-15,Mobile phone plan - Bell Canada,Utilities,1958.95,Expense
+2024-10-10,General health & fitness transaction,Health & Fitness,727.01,Expense
+2024-10-18,General travel transaction,Travel,932.87,Expense
+2024-10-19,Water services - City of Toronto,Utilities,1284.76,Expense
+2024-10-03,Internet bill - Rogers,Utilities,951.24,Expense
+2024-10-01,Electronics from Best Buy,Shopping,566.46,Expense
+2024-10-17,Freelance payment - Upwork,Salary,1780.37,Expense
+2024-10-23,Freelance payment - Upwork,Salary,1564.14,Expense
+2024-10-24,Monthly salary - Google,Salary,833.84,Expense
+2024-10-17,General health & fitness transaction,Health & Fitness,1349.65,Expense
+2024-10-08,Coffee at Starbucks,Food & Drink,438.78,Expense
+2024-11-18,Coffee at Starbucks,Food & Drink,1378.66,Expense
+2024-11-14,General travel transaction,Travel,1101.61,Expense
+2024-11-16,Home goods at IKEA,Shopping,1051.69,Expense
+2024-11-11,Apartment lease payment,Rent,216.82,Expense
+2024-11-24,General travel transaction,Travel,831.68,Expense
+2024-11-11,Condo rent transfer,Rent,1313.12,Expense
+2024-11-17,Spotify Premium subscription,Entertainment,1611.37,Expense
+2024-11-02,Condo rent transfer,Rent,429.04,Expense
+2024-11-25,Internet bill - Rogers,Utilities,281.88,Expense
+2024-11-01,General travel transaction,Travel,1881.47,Expense
+2024-11-13,Freelance payment - Upwork,Salary,1256.7,Expense
+2024-11-24,Condo rent transfer,Rent,850.26,Expense
+2024-11-12,General travel transaction,Travel,466.42,Expense
+2024-11-18,Mobile phone plan - Bell Canada,Utilities,694.33,Expense
+2024-11-19,Wages from Apple Inc.,Salary,606.22,Expense
+2024-11-17,General health & fitness transaction,Health & Fitness,830.29,Expense
+2024-11-03,Grocery run at Whole Foods,Food & Drink,62.47,Expense
+2024-11-20,General health & fitness transaction,Health & Fitness,385.26,Expense
+2024-11-20,General travel transaction,Travel,1198.04,Expense
+2024-11-30,Wages from Apple Inc.,Salary,1456.94,Expense
+2024-12-06,General health & fitness transaction,Health & Fitness,932.73,Expense
+2024-12-11,Water services - City of Toronto,Utilities,121.52,Expense
+2024-12-29,Electronics from Best Buy,Shopping,655.78,Expense
+2024-12-09,General health & fitness transaction,Health & Fitness,169.64,Expense
+2024-12-12,Condo rent transfer,Rent,1090.95,Expense
+2024-12-28,Netflix subscription,Entertainment,727.25,Expense
+2024-12-28,Monthly rent payment to landlord,Rent,514.09,Expense
+2024-12-19,Dinner at Carbone (fine dining),Food & Drink,406.37,Expense
+2024-12-02,Internet bill - Rogers,Utilities,39.3,Expense
+2024-12-16,Clothing at Zara,Shopping,1544.74,Expense
+2024-12-15,Monthly rent payment to landlord,Rent,1949.45,Expense
+2024-12-21,Monthly salary - Google,Salary,784.35,Expense
+2024-12-05,Amazon purchase,Shopping,630.04,Expense
+2024-12-19,Monthly rent payment to landlord,Rent,1047.07,Expense
+2024-12-23,General health & fitness transaction,Health & Fitness,325.64,Expense

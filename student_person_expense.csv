@@ -1,0 +1,9 @@
+Date,Transaction Description,Category,Amount,Type
+2025-08-01,Part-time Pay,Income,800,Expense
+2025-08-02,Rent,Housing,-600,Expense
+2025-08-03,Textbooks,Education,-120,Expense
+2025-08-05,Cafeteria,Food,-12,Expense
+2025-08-07,Bus Pass,Transportation,-25,Expense
+2025-08-12,Movie Night,Entertainment,-10,Expense
+2025-08-20,Phone Bill,Utilities,-30,Expense
+2025-08-25,Loan Disbursement,Income,1000,Expense

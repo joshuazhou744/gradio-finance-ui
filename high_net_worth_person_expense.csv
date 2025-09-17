@@ -1,0 +1,9 @@
+Date,Transaction Description,Category,Amount,Type
+2025-08-01,Portfolio Dividend,Income,15000,Expense
+2025-08-02,Mortgage,Housing,-4500,Expense
+2025-08-04,Private Chef,Food,-1200,Expense
+2025-08-06,Car Lease,Transportation,-900,Expense
+2025-08-10,Charity Donation,Charity,-2000,Expense
+2025-08-15,Travel Booking,Travel,-3500,Expense
+2025-08-20,Membership Fee,Entertainment,-400,Expense
+2025-08-25,Art Purchase,Luxury,-8000,Expense
