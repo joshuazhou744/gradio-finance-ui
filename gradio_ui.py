@@ -76,13 +76,13 @@ custom_css = """
 }
 
 #transactions_df th:nth-child(2), #transactions_df td:nth-child(2) {
-  max-width: 240px; 
+  max-width: 220px; 
   white-space: normal;
   overflow: hidden;
 }
 
 #transactions_df th:nth-child(3), #transactions_df td:nth-child(3) {
-    max-width: 150px; 
+    max-width: 120px; 
     white-space: normal;
     overflow: hidden;
 }
