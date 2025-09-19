@@ -2,201 +2,201 @@ Date,Transaction Description,Category,Amount,Type
 2020-01-19,General other transaction,Other,3287.0,Income
 2020-01-05,Bond coupon payment,Investment,2291.0,Income
 2020-02-08,General other transaction,Other,3786.0,Income
-2020-02-28,General other transaction,Other,1795.0,Income
+2020-02-19,Bond coupon payment,Investment,3958.0,Income
+2020-02-15,General other transaction,Other,4009.0,Income
 2020-02-28,General other transaction,Other,3286.0,Income
-2020-02-18,Interest earned from savings,Investment,1398.0,Income
-2020-03-28,General other transaction,Other,1080.0,Income
 2020-03-23,Stock sale proceeds - Tesla,Investment,2385.0,Income
-2020-04-26,Stock sale proceeds - Tesla,Investment,914.0,Income
+2020-03-28,General other transaction,Other,1080.0,Income
 2020-04-17,Interest earned from savings,Investment,996.0,Income
+2020-04-26,Stock sale proceeds - Tesla,Investment,914.0,Income
 2020-04-10,General other transaction,Other,3402.0,Income
 2020-04-22,Bond coupon payment,Investment,2058.0,Income
 2020-05-07,Interest earned from savings,Investment,3807.0,Income
-2020-05-29,Dividend payout from Vanguard,Investment,1376.0,Income
 2020-05-11,Bond coupon payment,Investment,825.0,Income
-2020-06-14,General other transaction,Other,3872.0,Income
-2020-06-09,General other transaction,Other,826.0,Income
+2020-05-29,Dividend payout from Vanguard,Investment,1376.0,Income
 2020-06-18,General other transaction,Other,2322.0,Income
-2020-06-18,General other transaction,Other,3364.0,Income
+2020-06-09,General other transaction,Other,826.0,Income
+2020-06-22,General other transaction,Other,1962.0,Income
+2020-06-14,General other transaction,Other,3872.0,Income
 2020-07-21,General other transaction,Other,1096.0,Income
 2020-07-03,General other transaction,Other,3071.0,Income
 2020-07-06,General other transaction,Other,1925.0,Income
 2020-08-01,General other transaction,Other,2420.0,Income
-2020-08-19,General other transaction,Other,1988.0,Income
 2020-08-27,Dividend payout from Vanguard,Investment,1748.0,Income
-2020-08-03,Stock sale proceeds - Tesla,Investment,2394.0,Income
+2020-08-04,General other transaction,Other,3210.0,Income
+2020-08-19,General other transaction,Other,1988.0,Income
 2020-09-05,General other transaction,Other,1385.0,Income
 2020-10-07,ETF distribution - iShares,Investment,3084.0,Income
-2020-10-10,ETF distribution - iShares,Investment,4875.0,Income
-2020-10-07,ETF distribution - iShares,Investment,2069.0,Income
+2020-10-28,Bond coupon payment,Investment,1923.0,Income
 2020-10-10,Stock sale proceeds - Tesla,Investment,946.0,Income
-2020-11-25,General other transaction,Other,4089.0,Income
+2020-10-10,ETF distribution - iShares,Investment,4875.0,Income
 2020-11-27,Dividend payout from Vanguard,Investment,4280.0,Income
-2020-12-26,Stock sale proceeds - Tesla,Investment,2423.0,Income
+2020-11-25,General other transaction,Other,4089.0,Income
 2020-12-18,General other transaction,Other,1322.0,Income
+2020-12-26,Stock sale proceeds - Tesla,Investment,2423.0,Income
+2021-01-12,General other transaction,Other,2856.0,Income
 2021-01-24,General other transaction,Other,1620.0,Income
-2021-01-27,General other transaction,Other,3176.0,Income
 2021-01-15,General other transaction,Other,3440.0,Income
-2021-01-10,General other transaction,Other,2472.0,Income
+2021-01-27,General other transaction,Other,3176.0,Income
 2021-02-19,ETF distribution - iShares,Investment,804.0,Income
-2021-03-15,General other transaction,Other,929.0,Income
+2021-03-17,Stock sale proceeds - Tesla,Investment,855.0,Income
 2021-03-09,Dividend payout from Vanguard,Investment,2771.0,Income
-2021-03-16,General other transaction,Other,4809.0,Income
-2021-03-22,ETF distribution - iShares,Investment,1038.0,Income
+2021-03-26,General other transaction,Other,3060.0,Income
+2021-03-22,General other transaction,Other,3620.0,Income
 2021-04-19,Bond coupon payment,Investment,1168.0,Income
 2021-05-19,Stock sale proceeds - Tesla,Investment,1921.0,Income
 2021-05-15,Stock sale proceeds - Tesla,Investment,3362.0,Income
 2021-06-27,Interest earned from savings,Investment,2923.0,Income
-2021-06-28,Interest earned from savings,Investment,1856.0,Income
 2021-06-03,Stock sale proceeds - Tesla,Investment,820.0,Income
-2021-07-10,General other transaction,Other,3540.0,Income
+2021-06-28,Interest earned from savings,Investment,1856.0,Income
 2021-07-15,Bond coupon payment,Investment,730.0,Income
-2021-07-06,General other transaction,Other,4282.0,Income
+2021-07-10,General other transaction,Other,3540.0,Income
 2021-07-23,General other transaction,Other,4174.0,Income
+2021-07-06,General other transaction,Other,4282.0,Income
+2021-08-07,Dividend payout from Vanguard,Investment,1676.0,Income
 2021-08-21,General other transaction,Other,4420.0,Income
 2021-08-16,ETF distribution - iShares,Investment,1349.0,Income
-2021-08-07,Dividend payout from Vanguard,Investment,1676.0,Income
-2021-09-15,General other transaction,Other,4063.0,Income
-2021-09-17,General other transaction,Other,785.0,Income
 2021-09-09,General other transaction,Other,3509.0,Income
-2021-09-21,Dividend payout from Vanguard,Investment,4588.0,Income
+2021-09-19,Dividend payout from Vanguard,Investment,3500.0,Income
+2021-09-17,General other transaction,Other,785.0,Income
+2021-09-15,General other transaction,Other,4063.0,Income
+2021-10-24,General other transaction,Other,3761.0,Income
 2021-10-08,ETF distribution - iShares,Investment,4203.0,Income
 2021-10-22,General other transaction,Other,4328.0,Income
-2021-10-24,General other transaction,Other,3761.0,Income
 2021-10-13,General other transaction,Other,1219.0,Income
 2021-11-05,Interest earned from savings,Investment,1517.0,Income
-2021-11-21,General other transaction,Other,2974.0,Income
+2021-11-21,ETF distribution - iShares,Investment,1794.0,Income
 2021-11-16,Dividend payout from Vanguard,Investment,1902.0,Income
-2021-11-28,General other transaction,Other,4718.0,Income
-2021-12-15,ETF distribution - iShares,Investment,4030.0,Income
-2021-12-31,Stock sale proceeds - Tesla,Investment,1622.0,Income
-2021-12-28,General other transaction,Other,4596.0,Income
-2021-12-15,General other transaction,Other,3496.0,Income
+2021-11-21,General other transaction,Other,2974.0,Income
+2021-12-19,ETF distribution - iShares,Investment,3469.0,Income
+2021-12-09,General other transaction,Other,4585.0,Income
+2021-12-02,General other transaction,Other,2530.0,Income
+2021-12-03,Interest earned from savings,Investment,2877.0,Income
 2022-01-24,Stock sale proceeds - Tesla,Investment,2785.0,Income
-2022-01-03,ETF distribution - iShares,Investment,3186.0,Income
 2022-01-22,General other transaction,Other,4975.0,Income
-2022-02-22,ETF distribution - iShares,Investment,797.0,Income
-2022-02-27,Bond coupon payment,Investment,3244.0,Income
-2022-02-18,Stock sale proceeds - Tesla,Investment,4883.0,Income
+2022-01-03,ETF distribution - iShares,Investment,3186.0,Income
 2022-02-11,General other transaction,Other,3205.0,Income
+2022-02-25,General other transaction,Other,806.0,Income
+2022-02-18,Stock sale proceeds - Tesla,Investment,4883.0,Income
+2022-02-22,ETF distribution - iShares,Investment,797.0,Income
 2022-03-28,General other transaction,Other,4762.0,Income
-2022-03-02,General other transaction,Other,2735.0,Income
-2022-03-17,Dividend payout from Vanguard,Investment,4411.0,Income
+2022-03-05,General other transaction,Other,2607.0,Income
 2022-03-31,General other transaction,Other,3024.0,Income
+2022-03-04,Dividend payout from Vanguard,Investment,3208.0,Income
 2022-04-16,Stock sale proceeds - Tesla,Investment,763.0,Income
-2022-04-01,General other transaction,Other,1022.0,Income
+2022-04-21,Bond coupon payment,Investment,4157.0,Income
 2022-04-01,ETF distribution - iShares,Investment,1098.0,Income
-2022-04-01,General other transaction,Other,759.0,Income
+2022-04-22,General other transaction,Other,2419.0,Income
+2022-05-08,Stock sale proceeds - Tesla,Investment,2588.0,Income
 2022-05-28,General other transaction,Other,2384.0,Income
 2022-05-27,General other transaction,Other,2918.0,Income
 2022-05-13,Interest earned from savings,Investment,4427.0,Income
-2022-05-08,Stock sale proceeds - Tesla,Investment,2588.0,Income
-2022-06-21,Interest earned from savings,Investment,1177.0,Income
-2022-06-06,Interest earned from savings,Investment,4642.0,Income
 2022-06-11,General other transaction,Other,4888.0,Income
+2022-06-06,Interest earned from savings,Investment,4642.0,Income
+2022-06-21,Interest earned from savings,Investment,1177.0,Income
 2022-06-11,General other transaction,Other,597.0,Income
 2022-07-18,Stock sale proceeds - Tesla,Investment,3612.0,Income
-2022-07-27,Interest earned from savings,Investment,3157.0,Income
 2022-07-28,General other transaction,Other,1888.0,Income
 2022-07-29,General other transaction,Other,2698.0,Income
+2022-07-27,Interest earned from savings,Investment,3157.0,Income
 2022-08-21,General other transaction,Other,2482.0,Income
+2022-08-02,General other transaction,Other,2520.0,Income
 2022-08-13,General other transaction,Other,3114.0,Income
 2022-08-31,Interest earned from savings,Investment,4683.0,Income
-2022-08-03,ETF distribution - iShares,Investment,1609.0,Income
-2022-09-08,Bond coupon payment,Investment,3211.0,Income
-2022-09-17,Dividend payout from Vanguard,Investment,2649.0,Income
-2022-09-29,General other transaction,Other,3965.0,Income
 2022-09-05,Dividend payout from Vanguard,Investment,685.0,Income
+2022-09-08,Bond coupon payment,Investment,3211.0,Income
+2022-09-02,ETF distribution - iShares,Investment,2920.0,Income
+2022-09-07,Stock sale proceeds - Tesla,Investment,4727.0,Income
 2022-10-04,Bond coupon payment,Investment,2306.0,Income
 2022-10-12,Dividend payout from Vanguard,Investment,2694.0,Income
 2022-10-28,Stock sale proceeds - Tesla,Investment,2195.0,Income
-2022-11-28,General other transaction,Other,2157.0,Income
 2022-11-07,Interest earned from savings,Investment,3138.0,Income
-2022-12-07,Stock sale proceeds - Tesla,Investment,508.0,Income
+2022-11-28,General other transaction,Other,2157.0,Income
 2022-12-22,General other transaction,Other,3511.0,Income
-2023-01-04,General other transaction,Other,4124.0,Income
-2023-01-26,General other transaction,Other,1467.0,Income
+2022-12-07,Stock sale proceeds - Tesla,Investment,508.0,Income
 2023-01-21,Dividend payout from Vanguard,Investment,826.0,Income
-2023-01-24,General other transaction,Other,1450.0,Income
-2023-02-26,General other transaction,Other,1262.0,Income
-2023-02-07,General other transaction,Other,1478.0,Income
+2023-01-26,General other transaction,Other,1467.0,Income
+2023-01-03,Bond coupon payment,Investment,4105.0,Income
+2023-01-31,Interest earned from savings,Investment,4364.0,Income
 2023-02-22,ETF distribution - iShares,Investment,3939.0,Income
+2023-02-26,General other transaction,Other,1262.0,Income
 2023-02-22,General other transaction,Other,3019.0,Income
-2023-03-23,General other transaction,Other,3735.0,Income
-2023-03-16,Bond coupon payment,Investment,1570.0,Income
-2023-03-27,ETF distribution - iShares,Investment,2033.0,Income
-2023-03-23,General other transaction,Other,914.0,Income
-2023-04-09,Dividend payout from Vanguard,Investment,740.0,Income
-2023-04-24,Bond coupon payment,Investment,1239.0,Income
-2023-04-22,General other transaction,Other,1664.0,Income
+2023-02-08,General other transaction,Other,2812.0,Income
+2023-03-18,General other transaction,Other,3549.0,Income
+2023-03-23,General other transaction,Other,1503.0,Income
+2023-03-30,Dividend payout from Vanguard,Investment,2917.0,Income
+2023-03-05,General other transaction,Other,2638.0,Income
 2023-04-25,Interest earned from savings,Investment,663.0,Income
-2023-05-30,ETF distribution - iShares,Investment,3575.0,Income
+2023-04-09,Dividend payout from Vanguard,Investment,740.0,Income
+2023-04-22,General other transaction,Other,1664.0,Income
+2023-04-24,Bond coupon payment,Investment,1239.0,Income
+2023-05-22,General other transaction,Other,3937.0,Income
+2023-05-12,General other transaction,Other,4491.0,Income
+2023-05-29,General other transaction,Other,1357.0,Income
 2023-05-05,Bond coupon payment,Investment,1408.0,Income
-2023-05-03,General other transaction,Other,987.0,Income
-2023-05-29,Interest earned from savings,Investment,2915.0,Income
 2023-06-02,Interest earned from savings,Investment,4981.0,Income
 2023-06-15,Stock sale proceeds - Tesla,Investment,2890.0,Income
 2023-07-05,General other transaction,Other,1141.0,Income
-2023-07-15,General other transaction,Other,2700.0,Income
 2023-07-15,General other transaction,Other,817.0,Income
 2023-07-10,Dividend payout from Vanguard,Investment,1365.0,Income
-2023-08-05,Dividend payout from Vanguard,Investment,2481.0,Income
+2023-07-05,Stock sale proceeds - Tesla,Investment,2078.0,Income
 2023-08-27,General other transaction,Other,2815.0,Income
 2023-08-10,Stock sale proceeds - Tesla,Investment,2313.0,Income
 2023-08-17,Stock sale proceeds - Tesla,Investment,569.0,Income
+2023-08-05,Dividend payout from Vanguard,Investment,2481.0,Income
 2023-09-15,Bond coupon payment,Investment,3626.0,Income
 2023-09-23,General other transaction,Other,2740.0,Income
 2023-09-28,Interest earned from savings,Investment,1560.0,Income
-2023-10-16,Stock sale proceeds - Tesla,Investment,661.0,Income
-2023-10-08,Dividend payout from Vanguard,Investment,2942.0,Income
 2023-10-30,Stock sale proceeds - Tesla,Investment,2815.0,Income
-2023-10-14,Bond coupon payment,Investment,1508.0,Income
-2023-11-14,Interest earned from savings,Investment,823.0,Income
-2023-11-05,Dividend payout from Vanguard,Investment,2654.0,Income
+2023-10-08,General other transaction,Other,1868.0,Income
+2023-10-16,Stock sale proceeds - Tesla,Investment,661.0,Income
+2023-10-13,General other transaction,Other,656.0,Income
 2023-11-13,General other transaction,Other,2393.0,Income
-2023-11-29,General other transaction,Other,601.0,Income
+2023-11-21,Dividend payout from Vanguard,Investment,3192.0,Income
+2023-11-05,Dividend payout from Vanguard,Investment,2654.0,Income
+2023-11-04,Stock sale proceeds - Tesla,Investment,4577.0,Income
 2023-12-14,Stock sale proceeds - Tesla,Investment,3601.0,Income
-2024-01-13,Dividend payout from Vanguard,Investment,1348.0,Income
 2024-01-04,ETF distribution - iShares,Investment,2036.0,Income
-2024-01-04,ETF distribution - iShares,Investment,3852.0,Income
+2024-01-13,Dividend payout from Vanguard,Investment,1348.0,Income
+2024-01-25,Dividend payout from Vanguard,Investment,934.0,Income
 2024-01-11,Bond coupon payment,Investment,4045.0,Income
-2024-02-06,General other transaction,Other,3674.0,Income
-2024-02-07,General other transaction,Other,2163.0,Income
+2024-02-16,General other transaction,Other,2664.0,Income
 2024-02-17,General other transaction,Other,546.0,Income
 2024-02-15,Interest earned from savings,Investment,3590.0,Income
-2024-03-05,Stock sale proceeds - Tesla,Investment,1871.0,Income
-2024-03-27,Interest earned from savings,Investment,2874.0,Income
+2024-02-07,General other transaction,Other,2163.0,Income
 2024-03-11,General other transaction,Other,1077.0,Income
 2024-03-18,Interest earned from savings,Investment,1018.0,Income
+2024-03-05,Stock sale proceeds - Tesla,Investment,1871.0,Income
+2024-03-27,Interest earned from savings,Investment,2874.0,Income
 2024-04-13,Interest earned from savings,Investment,2117.0,Income
-2024-04-18,General other transaction,Other,3091.0,Income
+2024-04-04,General other transaction,Other,591.0,Income
 2024-04-23,General other transaction,Other,4431.0,Income
-2024-04-30,Dividend payout from Vanguard,Investment,2656.0,Income
+2024-04-10,ETF distribution - iShares,Investment,4996.0,Income
 2024-05-05,General other transaction,Other,2329.0,Income
 2024-05-20,Bond coupon payment,Investment,1967.0,Income
 2024-06-09,General other transaction,Other,2232.0,Income
-2024-06-17,Stock sale proceeds - Tesla,Investment,2615.0,Income
 2024-06-10,ETF distribution - iShares,Investment,3467.0,Income
-2024-06-15,Dividend payout from Vanguard,Investment,1603.0,Income
-2024-07-26,General other transaction,Other,2577.0,Income
-2024-07-23,ETF distribution - iShares,Investment,4780.0,Income
-2024-07-23,Interest earned from savings,Investment,3572.0,Income
+2024-06-23,General other transaction,Other,1669.0,Income
+2024-06-07,ETF distribution - iShares,Investment,2384.0,Income
+2024-07-22,General other transaction,Other,2611.0,Income
 2024-07-05,Bond coupon payment,Investment,2157.0,Income
-2024-08-11,ETF distribution - iShares,Investment,1211.0,Income
+2024-07-26,General other transaction,Other,2577.0,Income
+2024-07-23,Interest earned from savings,Investment,3572.0,Income
 2024-08-23,General other transaction,Other,538.0,Income
+2024-08-11,ETF distribution - iShares,Investment,1211.0,Income
 2024-08-25,General other transaction,Other,4906.0,Income
-2024-09-13,Dividend payout from Vanguard,Investment,4535.0,Income
-2024-09-23,General other transaction,Other,3085.0,Income
-2024-09-07,Stock sale proceeds - Tesla,Investment,2674.0,Income
 2024-09-05,General other transaction,Other,3396.0,Income
-2024-10-04,General other transaction,Other,4592.0,Income
+2024-09-13,Dividend payout from Vanguard,Investment,4535.0,Income
+2024-09-21,General other transaction,Other,3725.0,Income
+2024-09-07,Stock sale proceeds - Tesla,Investment,2674.0,Income
 2024-10-04,General other transaction,Other,4486.0,Income
-2024-10-01,Dividend payout from Vanguard,Investment,2372.0,Income
 2024-10-28,Dividend payout from Vanguard,Investment,1524.0,Income
+2024-10-01,Dividend payout from Vanguard,Investment,2372.0,Income
+2024-10-04,General other transaction,Other,4592.0,Income
+2024-11-13,Dividend payout from Vanguard,Investment,734.0,Income
 2024-11-26,Interest earned from savings,Investment,4882.0,Income
-2024-11-23,General other transaction,Other,3599.0,Income
 2024-11-13,General other transaction,Other,3164.0,Income
-2024-11-14,Dividend payout from Vanguard,Investment,4240.0,Income
+2024-11-17,Bond coupon payment,Investment,500.0,Income
 2024-12-29,General other transaction,Other,1480.0,Income
 2024-12-12,General other transaction,Other,3625.0,Income
 2024-12-28,Stock sale proceeds - Tesla,Investment,1425.0,Income

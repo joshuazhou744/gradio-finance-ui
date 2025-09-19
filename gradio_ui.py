@@ -11,19 +11,22 @@ def init_accounts() -> Dict[str, str]:
     base_dir = os.path.dirname(__file__)
     default_accounts = {
         "middle_class_person_expense": os.path.join(base_dir, "middle_class_person_expense.csv"),
-        "high_net_worth_person_expense": os.path.join(base_dir, "high_net_worth_person_expense.csv"),
+        "middle_class_person_income": os.path.join(base_dir, "middle_class_person_income.csv"),
+        "middle_class_person_stocks": os.path.join(base_dir, "middle_class_person_stocks.csv"),
+        "middle_class_person_bank_statement": os.path.join(base_dir, "middle_class_person_bank_statement.csv"),
     }
     return {k: v for k, v in default_accounts.items() if os.path.exists(v)}
 
-def load_account_data(account_name: str) -> Tuple[pd.DataFrame, str]:
+def load_account_data(account_name: str) -> pd.DataFrame:
     path = accounts.get(account_name, "")
     if not path or not os.path.exists(path):
-        return pd.DataFrame(), f"No data found for '{account_name}'."
+        return pd.DataFrame()
     try:
         df = pd.read_csv(path)
     except Exception as e:
-        return pd.DataFrame(), f"Failed to load data: {e}"
-    return df, f"Showing {os.path.basename(path)} — {len(df)} rows"
+        return pd.DataFrame()
+    
+    return df
 
 def add_account(file_path: str):
     """Add uploaded CSV file as a new account."""
@@ -69,15 +72,40 @@ custom_css = """
 }
 #transactions_df table {
   font-size: 14px;
+  table-layout: auto;
+}
+
+#transactions_df th:nth-child(2), #transactions_df td:nth-child(2) {
+  max-width: 240px; 
+  white-space: normal;
+  overflow: hidden;
+}
+
+#transactions_df th:nth-child(3), #transactions_df td:nth-child(3) {
+    max-width: 150px; 
+    white-space: normal;
+    overflow: hidden;
 }
 
 #upload_block{
     border-radius:5px;
+    margin-top: 5px;
+}
+
+#transactions_df .label-wrap {
+  white-space: nowrap !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
+}
+
+#transactions_df {
+  overflow: auto;
+  max-width: 100%;
 }
 """
 
 accounts = init_accounts()
-default_account = next(iter(accounts.keys()), None)
+default_account = next(iter(accounts.keys()), None) if accounts else None
 
 with gr.Blocks(theme=gr.themes.Soft(), css=custom_css) as demo:
     gr.Markdown("# Finance Dashboard")
@@ -87,18 +115,25 @@ with gr.Blocks(theme=gr.themes.Soft(), css=custom_css) as demo:
             with gr.Group(elem_id="account_box"):
                 gr.Markdown("**Account Transactions**")
                 transactions_df = gr.Dataframe(
-                    value=None, interactive=False, wrap=True,
-                    elem_id="transactions_df", label=""
+                    value=None,
+                    interactive=True,
+                    wrap=False,
+                    line_breaks=False,
+                    show_fullscreen_button=True,
+                    show_search="search",
+                    max_height=500,
+                    elem_id="transactions_df",
+                    label=""
                 )
-        with gr.Column(scale=5, min_width=360):
+        with gr.Column(scale=3, min_width=320):
             with gr.Group(elem_id="selector_box"):
-                gr.Markdown("**Select or Add Account/User**")
+                gr.Markdown("**Select or Add Account**")
                 account_dropdown = gr.Dropdown(
                     choices=list(accounts.keys()),
                     value=default_account,
+                    allow_custom_value=True,
                     label="Account/User",
                 )
-                account_info = gr.Markdown("", elem_id="account_info")
                 file_upload = gr.File(
                     label="Upload CSV",
                     file_types=[".csv"],
@@ -125,14 +160,14 @@ with gr.Blocks(theme=gr.themes.Soft(), css=custom_css) as demo:
     account_dropdown.change(
         fn=load_account_data,
         inputs=account_dropdown,
-        outputs=[transactions_df, account_info],
+        outputs=[transactions_df],
     )
 
     # Initialize with default
     demo.load(
         fn=load_account_data,
         inputs=account_dropdown,
-        outputs=[transactions_df, account_info],
+        outputs=[transactions_df],
     )
 
     # File upload adds new account & refreshes dropdown
