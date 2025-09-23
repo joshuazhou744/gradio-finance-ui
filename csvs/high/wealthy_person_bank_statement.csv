@@ -1,0 +1,247 @@
+Date,description,balance,deposit,stocks,expenses,income
+2020-01-02,0,25000000.0,0.0,0.0,0.0,0.0
+2020-01-03,deposit | Fortune 500 Company,25025000.0,25000.0,0.0,0.0,0.0
+2020-01-17,deposit | Fortune 500 Company,25050000.0,25000.0,0.0,0.0,0.0
+2020-01-29,deposit | real estate + dividends + private equity,25100000.0,50000.0,0.0,0.0,0.0
+2020-01-31,deposit | Fortune 500 Company,25125000.0,25000.0,0.0,0.0,0.0
+2020-02-01,credit card,25127961.59,0.0,1430465.0,17108.41,20070.0
+2020-02-14,deposit | Fortune 500 Company,25152961.59,25000.0,0.0,0.0,0.0
+2020-02-26,deposit | real estate + dividends + private equity,25202961.59,50000.0,0.0,0.0,0.0
+2020-02-28,deposit | Fortune 500 Company,25227961.59,25000.0,0.0,0.0,0.0
+2020-03-01,credit card,25217844.78,0.0,1291189.63,13581.81,3465.0
+2020-03-13,deposit | Fortune 500 Company,25242844.78,25000.0,0.0,0.0,0.0
+2020-03-25,deposit | real estate + dividends + private equity,25292844.78,50000.0,0.0,0.0,0.0
+2020-03-27,deposit | Fortune 500 Company,25317844.78,25000.0,0.0,0.0,0.0
+2020-04-01,credit card,25308981.73,0.0,1489943.41,16233.05,7370.0
+2020-04-10,deposit | Fortune 500 Company,25333981.73,25000.0,0.0,0.0,0.0
+2020-04-24,deposit | Fortune 500 Company,25358981.73,25000.0,0.0,0.0,0.0
+2020-04-29,deposit | real estate + dividends + private equity,25408981.73,50000.0,0.0,0.0,0.0
+2020-05-01,credit card,25398143.6,0.0,1549219.68,16846.13,6008.0
+2020-05-08,deposit | Fortune 500 Company,25423143.6,25000.0,0.0,0.0,0.0
+2020-05-22,deposit | Fortune 500 Company,25448143.6,25000.0,0.0,0.0,0.0
+2020-05-27,deposit | real estate + dividends + private equity,25498143.6,50000.0,0.0,0.0,0.0
+2020-06-01,credit card,25489808.88,0.0,1644601.28,20680.72,12346.0
+2020-06-05,deposit | Fortune 500 Company,25514808.88,25000.0,0.0,0.0,0.0
+2020-06-19,deposit | Fortune 500 Company,25539808.88,25000.0,0.0,0.0,0.0
+2020-06-24,deposit | real estate + dividends + private equity,25589808.88,50000.0,0.0,0.0,0.0
+2020-07-01,credit card,25571874.61,0.0,1776377.92,24026.27,6092.0
+2020-07-03,deposit | Fortune 500 Company,25596874.61,25000.0,0.0,0.0,0.0
+2020-07-17,deposit | Fortune 500 Company,25621874.61,25000.0,0.0,0.0,0.0
+2020-07-29,deposit | real estate + dividends + private equity,25671874.61,50000.0,0.0,0.0,0.0
+2020-07-31,deposit | Fortune 500 Company,25696874.61,25000.0,0.0,0.0,0.0
+2020-08-01,credit card,25680428.81,0.0,2027816.75,31386.8,14941.0
+2020-08-14,deposit | Fortune 500 Company,25705428.81,25000.0,0.0,0.0,0.0
+2020-08-26,deposit | real estate + dividends + private equity,25755428.81,50000.0,0.0,0.0,0.0
+2020-08-28,deposit | Fortune 500 Company,25780428.81,25000.0,0.0,0.0,0.0
+2020-09-01,credit card,25760298.66,0.0,1885652.6,21515.15,1385.0
+2020-09-11,deposit | Fortune 500 Company,25785298.66,25000.0,0.0,0.0,0.0
+2020-09-23,deposit | real estate + dividends + private equity,25835298.66,50000.0,0.0,0.0,0.0
+2020-09-25,deposit | Fortune 500 Company,25860298.66,25000.0,0.0,0.0,0.0
+2020-10-01,credit card,25851032.67,0.0,1825525.97,22162.99,12897.0
+2020-10-09,deposit | Fortune 500 Company,25876032.67,25000.0,0.0,0.0,0.0
+2020-10-23,deposit | Fortune 500 Company,25901032.67,25000.0,0.0,0.0,0.0
+2020-10-28,deposit | real estate + dividends + private equity,25951032.67,50000.0,0.0,0.0,0.0
+2020-11-01,credit card,25932666.51,0.0,2051690.51,26735.16,8369.0
+2020-11-06,deposit | Fortune 500 Company,25957666.51,25000.0,0.0,0.0,0.0
+2020-11-20,deposit | Fortune 500 Company,25982666.51,25000.0,0.0,0.0,0.0
+2020-11-25,deposit | real estate + dividends + private equity,26032666.51,50000.0,0.0,0.0,0.0
+2020-12-01,credit card,26008053.39,0.0,2200617.4,28358.12,3745.0
+2020-12-04,deposit | Fortune 500 Company,26033053.39,25000.0,0.0,0.0,0.0
+2020-12-18,deposit | Fortune 500 Company,26058053.39,25000.0,0.0,0.0,0.0
+2020-12-30,deposit | real estate + dividends + private equity,26108053.39,50000.0,0.0,0.0,0.0
+2021-01-01,credit card | deposit | Fortune 500 Company,26130800.28,25000.0,2255539.17,15817.11,13564.0
+2021-01-15,deposit | Fortune 500 Company,26155800.28,25000.0,0.0,0.0,0.0
+2021-01-27,deposit | real estate + dividends + private equity,26205800.28,50000.0,0.0,0.0,0.0
+2021-01-29,deposit | Fortune 500 Company,26230800.28,25000.0,0.0,0.0,0.0
+2021-02-01,credit card,26211679.05,0.0,2230103.69,19925.23,804.0
+2021-02-12,deposit | Fortune 500 Company,26236679.05,25000.0,0.0,0.0,0.0
+2021-02-24,deposit | real estate + dividends + private equity,26286679.05,50000.0,0.0,0.0,0.0
+2021-02-26,deposit | Fortune 500 Company,26311679.05,25000.0,0.0,0.0,0.0
+2021-03-01,credit card,26315921.81,0.0,2279476.54,26223.24,30466.0
+2021-03-12,deposit | Fortune 500 Company,26340921.81,25000.0,0.0,0.0,0.0
+2021-03-24,deposit | real estate + dividends + private equity,26390921.81,50000.0,0.0,0.0,0.0
+2021-03-26,deposit | Fortune 500 Company,26415921.81,25000.0,0.0,0.0,0.0
+2021-04-01,credit card,26393992.1,0.0,2427231.04,23097.71,1168.0
+2021-04-09,deposit | Fortune 500 Company,26418992.1,25000.0,0.0,0.0,0.0
+2021-04-23,deposit | Fortune 500 Company,26443992.1,25000.0,0.0,0.0,0.0
+2021-04-28,deposit | real estate + dividends + private equity,26493992.1,50000.0,0.0,0.0,0.0
+2021-05-01,credit card,26475494.32,0.0,2385597.55,23780.78,5283.0
+2021-05-07,deposit | Fortune 500 Company,26500494.32,25000.0,0.0,0.0,0.0
+2021-05-21,deposit | Fortune 500 Company,26525494.32,25000.0,0.0,0.0,0.0
+2021-05-26,deposit | real estate + dividends + private equity,26575494.32,50000.0,0.0,0.0,0.0
+2021-06-01,credit card,26558955.69,0.0,2496519.19,22137.63,5599.0
+2021-06-04,deposit | Fortune 500 Company,26583955.69,25000.0,0.0,0.0,0.0
+2021-06-18,deposit | Fortune 500 Company,26608955.69,25000.0,0.0,0.0,0.0
+2021-06-23,deposit | real estate + dividends + private equity,26658955.69,50000.0,0.0,0.0,0.0
+2021-07-01,credit card,26652559.32,0.0,2583216.17,19122.37,12726.0
+2021-07-02,deposit | Fortune 500 Company,26677559.32,25000.0,0.0,0.0,0.0
+2021-07-16,deposit | Fortune 500 Company,26702559.32,25000.0,0.0,0.0,0.0
+2021-07-28,deposit | real estate + dividends + private equity,26752559.32,50000.0,0.0,0.0,0.0
+2021-07-30,deposit | Fortune 500 Company,26777559.32,25000.0,0.0,0.0,0.0
+2021-08-01,credit card,26770430.29,0.0,2704032.6,14574.03,7445.0
+2021-08-13,deposit | Fortune 500 Company,26795430.29,25000.0,0.0,0.0,0.0
+2021-08-25,deposit | real estate + dividends + private equity,26845430.29,50000.0,0.0,0.0,0.0
+2021-08-27,deposit | Fortune 500 Company,26870430.29,25000.0,0.0,0.0,0.0
+2021-09-01,credit card,26869790.53,0.0,2590837.93,17084.76,16445.0
+2021-09-10,deposit | Fortune 500 Company,26894790.53,25000.0,0.0,0.0,0.0
+2021-09-24,deposit | Fortune 500 Company,26919790.53,25000.0,0.0,0.0,0.0
+2021-09-29,deposit | real estate + dividends + private equity,26969790.53,50000.0,0.0,0.0,0.0
+2021-10-01,credit card,26970741.96,0.0,2928126.28,12559.57,13511.0
+2021-10-08,deposit | Fortune 500 Company,26995741.96,25000.0,0.0,0.0,0.0
+2021-10-22,deposit | Fortune 500 Company,27020741.96,25000.0,0.0,0.0,0.0
+2021-10-27,deposit | real estate + dividends + private equity,27070741.96,50000.0,0.0,0.0,0.0
+2021-11-01,credit card,27069321.59,0.0,2954230.53,14325.37,12905.0
+2021-11-05,deposit | Fortune 500 Company,27094321.59,25000.0,0.0,0.0,0.0
+2021-11-19,deposit | Fortune 500 Company,27119321.59,25000.0,0.0,0.0,0.0
+2021-11-24,deposit | real estate + dividends + private equity,27169321.59,50000.0,0.0,0.0,0.0
+2021-12-01,credit card,27189806.93,0.0,3004019.87,9996.66,30482.0
+2021-12-03,deposit | Fortune 500 Company,27214806.93,25000.0,0.0,0.0,0.0
+2021-12-17,deposit | Fortune 500 Company,27239806.93,25000.0,0.0,0.0,0.0
+2021-12-29,deposit | real estate + dividends + private equity,27289806.93,50000.0,0.0,0.0,0.0
+2021-12-31,deposit | Fortune 500 Company,27314806.93,25000.0,0.0,0.0,0.0
+2022-01-01,credit card,27304920.32,0.0,2819967.86,20832.61,10946.0
+2022-01-14,deposit | Fortune 500 Company,27329920.32,25000.0,0.0,0.0,0.0
+2022-01-26,deposit | real estate + dividends + private equity,27379920.32,50000.0,0.0,0.0,0.0
+2022-01-28,deposit | Fortune 500 Company,27404920.32,25000.0,0.0,0.0,0.0
+2022-02-01,credit card,27404776.63,0.0,2714083.0,20042.69,19899.0
+2022-02-11,deposit | Fortune 500 Company,27429776.63,25000.0,0.0,0.0,0.0
+2022-02-23,deposit | real estate + dividends + private equity,27479776.63,50000.0,0.0,0.0,0.0
+2022-02-25,deposit | Fortune 500 Company,27504776.63,25000.0,0.0,0.0,0.0
+2022-03-01,credit card,27497787.44,0.0,2886115.2,27736.19,20747.0
+2022-03-11,deposit | Fortune 500 Company,27522787.44,25000.0,0.0,0.0,0.0
+2022-03-25,deposit | Fortune 500 Company,27547787.44,25000.0,0.0,0.0,0.0
+2022-03-30,deposit | real estate + dividends + private equity,27597787.44,50000.0,0.0,0.0,0.0
+2022-04-01,credit card,27586560.43,0.0,2545554.6,21445.01,10218.0
+2022-04-08,deposit | Fortune 500 Company,27611560.43,25000.0,0.0,0.0,0.0
+2022-04-22,deposit | Fortune 500 Company,27636560.43,25000.0,0.0,0.0,0.0
+2022-04-27,deposit | real estate + dividends + private equity,27686560.43,50000.0,0.0,0.0,0.0
+2022-05-01,credit card,27667533.38,0.0,2481580.5,31344.05,12317.0
+2022-05-06,deposit | Fortune 500 Company,27692533.38,25000.0,0.0,0.0,0.0
+2022-05-20,deposit | Fortune 500 Company,27717533.38,25000.0,0.0,0.0,0.0
+2022-05-25,deposit | real estate + dividends + private equity,27767533.38,50000.0,0.0,0.0,0.0
+2022-06-01,credit card,27753279.6,0.0,2282557.52,25557.78,11304.0
+2022-06-03,deposit | Fortune 500 Company,27778279.6,25000.0,0.0,0.0,0.0
+2022-06-17,deposit | Fortune 500 Company,27803279.6,25000.0,0.0,0.0,0.0
+2022-06-29,deposit | real estate + dividends + private equity,27853279.6,50000.0,0.0,0.0,0.0
+2022-07-01,credit card | deposit | Fortune 500 Company,27870443.78,25000.0,2581178.24,19190.82,11355.0
+2022-07-15,deposit | Fortune 500 Company,27895443.78,25000.0,0.0,0.0,0.0
+2022-07-27,deposit | real estate + dividends + private equity,27945443.78,50000.0,0.0,0.0,0.0
+2022-07-29,deposit | Fortune 500 Company,27970443.78,25000.0,0.0,0.0,0.0
+2022-08-01,credit card,27960605.78,0.0,2445727.81,24246.0,14408.0
+2022-08-12,deposit | Fortune 500 Company,27985605.78,25000.0,0.0,0.0,0.0
+2022-08-24,deposit | real estate + dividends + private equity,28035605.78,50000.0,0.0,0.0,0.0
+2022-08-26,deposit | Fortune 500 Company,28060605.78,25000.0,0.0,0.0,0.0
+2022-09-01,credit card,28061726.92,0.0,2225681.64,18901.86,20023.0
+2022-09-09,deposit | Fortune 500 Company,28086726.92,25000.0,0.0,0.0,0.0
+2022-09-23,deposit | Fortune 500 Company,28111726.92,25000.0,0.0,0.0,0.0
+2022-09-28,deposit | real estate + dividends + private equity,28161726.92,50000.0,0.0,0.0,0.0
+2022-10-01,credit card,28152509.62,0.0,2297012.1,16412.3,7195.0
+2022-10-07,deposit | Fortune 500 Company,28177509.62,25000.0,0.0,0.0,0.0
+2022-10-21,deposit | Fortune 500 Company,28202509.62,25000.0,0.0,0.0,0.0
+2022-10-26,deposit | real estate + dividends + private equity,28252509.62,50000.0,0.0,0.0,0.0
+2022-11-01,credit card,28238253.88,0.0,2351111.88,19550.74,5295.0
+2022-11-04,deposit | Fortune 500 Company,28263253.88,25000.0,0.0,0.0,0.0
+2022-11-18,deposit | Fortune 500 Company,28288253.88,25000.0,0.0,0.0,0.0
+2022-11-23,deposit | real estate + dividends + private equity,28338253.88,50000.0,0.0,0.0,0.0
+2022-12-01,credit card,28330756.58,0.0,2111942.27,11516.3,4019.0
+2022-12-02,deposit | Fortune 500 Company,28355756.58,25000.0,0.0,0.0,0.0
+2022-12-16,deposit | Fortune 500 Company,28380756.58,25000.0,0.0,0.0,0.0
+2022-12-28,deposit | real estate + dividends + private equity,28430756.58,50000.0,0.0,0.0,0.0
+2022-12-30,deposit | Fortune 500 Company,28455756.58,25000.0,0.0,0.0,0.0
+2023-01-01,credit card,28452993.83,0.0,2302108.8,28714.75,25952.0
+2023-01-13,deposit | Fortune 500 Company,28477993.83,25000.0,0.0,0.0,0.0
+2023-01-25,deposit | real estate + dividends + private equity,28527993.83,50000.0,0.0,0.0,0.0
+2023-01-27,deposit | Fortune 500 Company,28552993.83,25000.0,0.0,0.0,0.0
+2023-02-01,credit card,28553390.8,0.0,2311438.86,16870.03,17267.0
+2023-02-10,deposit | Fortune 500 Company,28578390.8,25000.0,0.0,0.0,0.0
+2023-02-22,deposit | real estate + dividends + private equity,28628390.8,50000.0,0.0,0.0,0.0
+2023-02-24,deposit | Fortune 500 Company,28653390.8,25000.0,0.0,0.0,0.0
+2023-03-01,credit card,28662787.02,0.0,2470076.57,16720.78,26117.0
+2023-03-10,deposit | Fortune 500 Company,28687787.02,25000.0,0.0,0.0,0.0
+2023-03-24,deposit | Fortune 500 Company,28712787.02,25000.0,0.0,0.0,0.0
+2023-03-29,deposit | real estate + dividends + private equity,28762787.02,50000.0,0.0,0.0,0.0
+2023-04-01,credit card,28750366.37,0.0,2501724.74,16726.65,4306.0
+2023-04-07,deposit | Fortune 500 Company,28775366.37,25000.0,0.0,0.0,0.0
+2023-04-21,deposit | Fortune 500 Company,28800366.37,25000.0,0.0,0.0,0.0
+2023-04-26,deposit | real estate + dividends + private equity,28850366.37,50000.0,0.0,0.0,0.0
+2023-05-01,credit card,28852666.5,0.0,2642221.87,18021.87,20322.0
+2023-05-05,deposit | Fortune 500 Company,28877666.5,25000.0,0.0,0.0,0.0
+2023-05-19,deposit | Fortune 500 Company,28902666.5,25000.0,0.0,0.0,0.0
+2023-05-24,deposit | real estate + dividends + private equity,28952666.5,50000.0,0.0,0.0,0.0
+2023-06-01,credit card,28940466.73,0.0,2851073.05,20070.77,7871.0
+2023-06-02,deposit | Fortune 500 Company,28965466.73,25000.0,0.0,0.0,0.0
+2023-06-16,deposit | Fortune 500 Company,28990466.73,25000.0,0.0,0.0,0.0
+2023-06-28,deposit | real estate + dividends + private equity,29040466.73,50000.0,0.0,0.0,0.0
+2023-06-30,deposit | Fortune 500 Company,29065466.73,25000.0,0.0,0.0,0.0
+2023-07-01,credit card,29047444.77,0.0,2927642.1,26122.96,8101.0
+2023-07-14,deposit | Fortune 500 Company,29072444.77,25000.0,0.0,0.0,0.0
+2023-07-26,deposit | real estate + dividends + private equity,29122444.77,50000.0,0.0,0.0,0.0
+2023-07-28,deposit | Fortune 500 Company,29147444.77,25000.0,0.0,0.0,0.0
+2023-08-01,credit card,29138250.18,0.0,2860049.4,17372.59,8178.0
+2023-08-11,deposit | Fortune 500 Company,29163250.18,25000.0,0.0,0.0,0.0
+2023-08-25,deposit | Fortune 500 Company,29188250.18,25000.0,0.0,0.0,0.0
+2023-08-30,deposit | real estate + dividends + private equity,29238250.18,50000.0,0.0,0.0,0.0
+2023-09-01,credit card,29220326.4,0.0,2720286.27,25849.78,7926.0
+2023-09-08,deposit | Fortune 500 Company,29245326.4,25000.0,0.0,0.0,0.0
+2023-09-22,deposit | Fortune 500 Company,29270326.4,25000.0,0.0,0.0,0.0
+2023-09-27,deposit | real estate + dividends + private equity,29320326.4,50000.0,0.0,0.0,0.0
+2023-10-01,credit card,29322502.19,0.0,2665086.26,14541.21,16717.0
+2023-10-06,deposit | Fortune 500 Company,29347502.19,25000.0,0.0,0.0,0.0
+2023-10-20,deposit | Fortune 500 Company,29372502.19,25000.0,0.0,0.0,0.0
+2023-10-25,deposit | real estate + dividends + private equity,29422502.19,50000.0,0.0,0.0,0.0
+2023-11-01,credit card,29413909.67,0.0,2958615.29,22832.52,14240.0
+2023-11-03,deposit | Fortune 500 Company,29438909.67,25000.0,0.0,0.0,0.0
+2023-11-17,deposit | Fortune 500 Company,29463909.67,25000.0,0.0,0.0,0.0
+2023-11-29,deposit | real estate + dividends + private equity,29513909.67,50000.0,0.0,0.0,0.0
+2023-12-01,credit card | deposit | Fortune 500 Company,29521856.34,25000.0,3044513.36,20654.33,3601.0
+2023-12-15,deposit | Fortune 500 Company,29546856.34,25000.0,0.0,0.0,0.0
+2023-12-27,deposit | real estate + dividends + private equity,29596856.34,50000.0,0.0,0.0,0.0
+2023-12-29,deposit | Fortune 500 Company,29621856.34,25000.0,0.0,0.0,0.0
+2024-01-01,credit card,29614914.21,0.0,3024749.71,29916.13,22974.0
+2024-01-12,deposit | Fortune 500 Company,29639914.21,25000.0,0.0,0.0,0.0
+2024-01-24,deposit | real estate + dividends + private equity,29689914.21,50000.0,0.0,0.0,0.0
+2024-01-26,deposit | Fortune 500 Company,29714914.21,25000.0,0.0,0.0,0.0
+2024-02-01,credit card,29703743.91,0.0,3153120.64,23807.3,12637.0
+2024-02-09,deposit | Fortune 500 Company,29728743.91,25000.0,0.0,0.0,0.0
+2024-02-23,deposit | Fortune 500 Company,29753743.91,25000.0,0.0,0.0,0.0
+2024-02-28,deposit | real estate + dividends + private equity,29803743.91,50000.0,0.0,0.0,0.0
+2024-03-01,credit card,29794147.48,0.0,3185914.49,16436.43,6840.0
+2024-03-08,deposit | Fortune 500 Company,29819147.48,25000.0,0.0,0.0,0.0
+2024-03-22,deposit | Fortune 500 Company,29844147.48,25000.0,0.0,0.0,0.0
+2024-03-27,deposit | real estate + dividends + private equity,29894147.48,50000.0,0.0,0.0,0.0
+2024-04-01,credit card,29901486.31,0.0,3088609.22,15443.17,22782.0
+2024-04-05,deposit | Fortune 500 Company,29926486.31,25000.0,0.0,0.0,0.0
+2024-04-19,deposit | Fortune 500 Company,29951486.31,25000.0,0.0,0.0,0.0
+2024-04-24,deposit | real estate + dividends + private equity,30001486.31,50000.0,0.0,0.0,0.0
+2024-05-01,credit card,29989959.75,0.0,3277722.11,15822.56,4296.0
+2024-05-03,deposit | Fortune 500 Company,30014959.75,25000.0,0.0,0.0,0.0
+2024-05-17,deposit | Fortune 500 Company,30039959.75,25000.0,0.0,0.0,0.0
+2024-05-29,deposit | real estate + dividends + private equity,30089959.75,50000.0,0.0,0.0,0.0
+2024-05-31,deposit | Fortune 500 Company,30114959.75,25000.0,0.0,0.0,0.0
+2024-06-01,credit card,30106375.68,0.0,3475199.89,22554.07,13970.0
+2024-06-14,deposit | Fortune 500 Company,30131375.68,25000.0,0.0,0.0,0.0
+2024-06-26,deposit | real estate + dividends + private equity,30181375.68,50000.0,0.0,0.0,0.0
+2024-06-28,deposit | Fortune 500 Company,30206375.68,25000.0,0.0,0.0,0.0
+2024-07-01,credit card,30198013.6,0.0,3506997.15,27716.08,19354.0
+2024-07-12,deposit | Fortune 500 Company,30223013.6,25000.0,0.0,0.0,0.0
+2024-07-24,deposit | real estate + dividends + private equity,30273013.6,50000.0,0.0,0.0,0.0
+2024-07-26,deposit | Fortune 500 Company,30298013.6,25000.0,0.0,0.0,0.0
+2024-08-01,credit card,30281734.91,0.0,3529916.29,22933.69,6655.0
+2024-08-09,deposit | Fortune 500 Company,30306734.91,25000.0,0.0,0.0,0.0
+2024-08-23,deposit | Fortune 500 Company,30331734.91,25000.0,0.0,0.0,0.0
+2024-08-28,deposit | real estate + dividends + private equity,30381734.91,50000.0,0.0,0.0,0.0
+2024-09-01,credit card,30382298.97,0.0,3635114.22,19383.94,19948.0
+2024-09-06,deposit | Fortune 500 Company,30407298.97,25000.0,0.0,0.0,0.0
+2024-09-20,deposit | Fortune 500 Company,30432298.97,25000.0,0.0,0.0,0.0
+2024-09-25,deposit | real estate + dividends + private equity,30482298.97,50000.0,0.0,0.0,0.0
+2024-10-01,credit card,30472288.76,0.0,3580208.02,22984.21,12974.0
+2024-10-04,deposit | Fortune 500 Company,30497288.76,25000.0,0.0,0.0,0.0
+2024-10-18,deposit | Fortune 500 Company,30522288.76,25000.0,0.0,0.0,0.0
+2024-10-30,deposit | real estate + dividends + private equity,30572288.76,50000.0,0.0,0.0,0.0
+2024-11-01,credit card | deposit | Fortune 500 Company,30597861.8,25000.0,3868495.64,23565.96,24139.0
+2024-11-15,deposit | Fortune 500 Company,30622861.8,25000.0,0.0,0.0,0.0
+2024-11-27,deposit | real estate + dividends + private equity,30672861.8,50000.0,0.0,0.0,0.0
+2024-11-29,deposit | Fortune 500 Company,30697861.8,25000.0,0.0,0.0,0.0
+2024-12-01,credit card,30693452.88,0.0,3955874.87,10938.92,6530.0
+2024-12-13,deposit | Fortune 500 Company,30718452.88,25000.0,0.0,0.0,0.0
+2024-12-27,deposit | Fortune 500 Company,30743452.88,25000.0,0.0,0.0,0.0

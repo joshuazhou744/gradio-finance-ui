@@ -1,0 +1,247 @@
+Date,description,balance,deposit,stocks,expenses,income
+2020-01-02,0,3500.0,0.0,0.0,0.0,0.0
+2020-01-03,deposit | Local Retail Chain,5300.0,1800.0,0.0,0.0,0.0
+2020-01-17,deposit | Local Retail Chain,7100.0,1800.0,0.0,0.0,0.0
+2020-01-29,deposit | gig work + occasional freelance,7300.0,200.0,0.0,0.0,0.0
+2020-01-31,deposit | Local Retail Chain,9100.0,1800.0,0.0,0.0,0.0
+2020-02-01,credit card,-63.76,0.0,198.84,13172.76,4009.0
+2020-02-14,deposit | Local Retail Chain,1736.24,1800.0,0.0,0.0,0.0
+2020-02-26,deposit | gig work + occasional freelance,1936.24,200.0,0.0,0.0,0.0
+2020-02-28,deposit | Local Retail Chain,3736.24,1800.0,0.0,0.0,0.0
+2020-03-01,credit card,-6419.71,0.0,183.96,11235.95,1080.0
+2020-03-13,deposit | Local Retail Chain,-4619.71,1800.0,0.0,0.0,0.0
+2020-03-25,deposit | gig work + occasional freelance,-4419.71,200.0,0.0,0.0,0.0
+2020-03-27,deposit | Local Retail Chain,-2619.71,1800.0,0.0,0.0,0.0
+2020-04-01,credit card,-16453.8,0.0,211.96,15892.09,2058.0
+2020-04-10,deposit | Local Retail Chain,-14653.8,1800.0,0.0,0.0,0.0
+2020-04-24,deposit | Local Retail Chain,-12853.8,1800.0,0.0,0.0,0.0
+2020-04-29,deposit | gig work + occasional freelance,-12653.8,200.0,0.0,0.0,0.0
+2020-05-01,credit card,-17873.93,0.0,225.95,9027.13,3807.0
+2020-05-08,deposit | Local Retail Chain,-16073.93,1800.0,0.0,0.0,0.0
+2020-05-22,deposit | Local Retail Chain,-14273.93,1800.0,0.0,0.0,0.0
+2020-05-27,deposit | gig work + occasional freelance,-14073.93,200.0,0.0,0.0,0.0
+2020-06-01,credit card,-24332.94,0.0,239.74,14131.01,3872.0
+2020-06-05,deposit | Local Retail Chain,-22532.94,1800.0,0.0,0.0,0.0
+2020-06-19,deposit | Local Retail Chain,-20732.94,1800.0,0.0,0.0,0.0
+2020-06-24,deposit | gig work + occasional freelance,-20532.94,200.0,0.0,0.0,0.0
+2020-07-01,credit card,-32705.44,0.0,257.8,14097.5,1925.0
+2020-07-03,deposit | Local Retail Chain,-30905.44,1800.0,0.0,0.0,0.0
+2020-07-17,deposit | Local Retail Chain,-29105.44,1800.0,0.0,0.0,0.0
+2020-07-29,deposit | gig work + occasional freelance,-28905.44,200.0,0.0,0.0,0.0
+2020-07-31,deposit | Local Retail Chain,-27105.44,1800.0,0.0,0.0,0.0
+2020-08-01,credit card,-38876.2,0.0,286.01,14164.76,2394.0
+2020-08-14,deposit | Local Retail Chain,-37076.2,1800.0,0.0,0.0,0.0
+2020-08-26,deposit | gig work + occasional freelance,-36876.2,200.0,0.0,0.0,0.0
+2020-08-28,deposit | Local Retail Chain,-35076.2,1800.0,0.0,0.0,0.0
+2020-09-01,credit card,-43356.52,0.0,269.48,9665.32,1385.0
+2020-09-11,deposit | Local Retail Chain,-41556.52,1800.0,0.0,0.0,0.0
+2020-09-23,deposit | gig work + occasional freelance,-41356.52,200.0,0.0,0.0,0.0
+2020-09-25,deposit | Local Retail Chain,-39556.52,1800.0,0.0,0.0,0.0
+2020-10-01,credit card,-48277.22,0.0,261.28,10643.7,1923.0
+2020-10-09,deposit | Local Retail Chain,-46477.22,1800.0,0.0,0.0,0.0
+2020-10-23,deposit | Local Retail Chain,-44677.22,1800.0,0.0,0.0,0.0
+2020-10-28,deposit | gig work + occasional freelance,-44477.22,200.0,0.0,0.0,0.0
+2020-11-01,credit card,-52765.74,0.0,290.61,12377.52,4089.0
+2020-11-06,deposit | Local Retail Chain,-50965.74,1800.0,0.0,0.0,0.0
+2020-11-20,deposit | Local Retail Chain,-49165.74,1800.0,0.0,0.0,0.0
+2020-11-25,deposit | gig work + occasional freelance,-48965.74,200.0,0.0,0.0,0.0
+2020-12-01,credit card,-61127.08,0.0,304.3,14584.34,2423.0
+2020-12-04,deposit | Local Retail Chain,-59327.08,1800.0,0.0,0.0,0.0
+2020-12-18,deposit | Local Retail Chain,-57527.08,1800.0,0.0,0.0,0.0
+2020-12-30,deposit | gig work + occasional freelance,-57327.08,200.0,0.0,0.0,0.0
+2021-01-01,credit card | deposit | Local Retail Chain,-64416.89,1800.0,305.65,10509.81,1620.0
+2021-01-15,deposit | Local Retail Chain,-62616.89,1800.0,0.0,0.0,0.0
+2021-01-27,deposit | gig work + occasional freelance,-62416.89,200.0,0.0,0.0,0.0
+2021-01-29,deposit | Local Retail Chain,-60616.89,1800.0,0.0,0.0,0.0
+2021-02-01,credit card,-71489.62,0.0,305.24,11676.73,804.0
+2021-02-12,deposit | Local Retail Chain,-69689.62,1800.0,0.0,0.0,0.0
+2021-02-24,deposit | gig work + occasional freelance,-69489.62,200.0,0.0,0.0,0.0
+2021-02-26,deposit | Local Retail Chain,-67689.62,1800.0,0.0,0.0,0.0
+2021-03-01,credit card,-76488.12,0.0,310.09,13199.5,4401.0
+2021-03-12,deposit | Local Retail Chain,-74688.12,1800.0,0.0,0.0,0.0
+2021-03-24,deposit | gig work + occasional freelance,-74488.12,200.0,0.0,0.0,0.0
+2021-03-26,deposit | Local Retail Chain,-72688.12,1800.0,0.0,0.0,0.0
+2021-04-01,credit card,-82798.93,0.0,328.83,11278.81,1168.0
+2021-04-09,deposit | Local Retail Chain,-80998.93,1800.0,0.0,0.0,0.0
+2021-04-23,deposit | Local Retail Chain,-79198.93,1800.0,0.0,0.0,0.0
+2021-04-28,deposit | gig work + occasional freelance,-78998.93,200.0,0.0,0.0,0.0
+2021-05-01,credit card,-88691.38,0.0,324.88,11613.45,1921.0
+2021-05-07,deposit | Local Retail Chain,-86891.38,1800.0,0.0,0.0,0.0
+2021-05-21,deposit | Local Retail Chain,-85091.38,1800.0,0.0,0.0,0.0
+2021-05-26,deposit | gig work + occasional freelance,-84891.38,200.0,0.0,0.0,0.0
+2021-06-01,credit card,-97058.59,0.0,344.83,12987.21,820.0
+2021-06-04,deposit | Local Retail Chain,-95258.59,1800.0,0.0,0.0,0.0
+2021-06-18,deposit | Local Retail Chain,-93458.59,1800.0,0.0,0.0,0.0
+2021-06-23,deposit | gig work + occasional freelance,-93258.59,200.0,0.0,0.0,0.0
+2021-07-01,credit card,-99733.67,0.0,355.1,10649.08,4174.0
+2021-07-02,deposit | Local Retail Chain,-97933.67,1800.0,0.0,0.0,0.0
+2021-07-16,deposit | Local Retail Chain,-96133.67,1800.0,0.0,0.0,0.0
+2021-07-28,deposit | gig work + occasional freelance,-95933.67,200.0,0.0,0.0,0.0
+2021-07-30,deposit | Local Retail Chain,-94133.67,1800.0,0.0,0.0,0.0
+2021-08-01,credit card,-100206.53,0.0,370.08,10492.86,4420.0
+2021-08-13,deposit | Local Retail Chain,-98406.53,1800.0,0.0,0.0,0.0
+2021-08-25,deposit | gig work + occasional freelance,-98206.53,200.0,0.0,0.0,0.0
+2021-08-27,deposit | Local Retail Chain,-96406.53,1800.0,0.0,0.0,0.0
+2021-09-01,credit card,-105410.83,0.0,348.67,12513.3,3509.0
+2021-09-10,deposit | Local Retail Chain,-103610.83,1800.0,0.0,0.0,0.0
+2021-09-24,deposit | Local Retail Chain,-101810.83,1800.0,0.0,0.0,0.0
+2021-09-29,deposit | gig work + occasional freelance,-101610.83,200.0,0.0,0.0,0.0
+2021-10-01,credit card,-109967.4,0.0,376.5,12559.57,4203.0
+2021-10-08,deposit | Local Retail Chain,-108167.4,1800.0,0.0,0.0,0.0
+2021-10-22,deposit | Local Retail Chain,-106367.4,1800.0,0.0,0.0,0.0
+2021-10-27,deposit | gig work + occasional freelance,-106167.4,200.0,0.0,0.0,0.0
+2021-11-01,credit card,-114115.84,0.0,384.02,10922.44,2974.0
+2021-11-05,deposit | Local Retail Chain,-112315.84,1800.0,0.0,0.0,0.0
+2021-11-19,deposit | Local Retail Chain,-110515.84,1800.0,0.0,0.0,0.0
+2021-11-24,deposit | gig work + occasional freelance,-110315.84,200.0,0.0,0.0,0.0
+2021-12-01,credit card,-116577.46,0.0,387.95,9730.62,3469.0
+2021-12-03,deposit | Local Retail Chain,-114777.46,1800.0,0.0,0.0,0.0
+2021-12-17,deposit | Local Retail Chain,-112977.46,1800.0,0.0,0.0,0.0
+2021-12-29,deposit | gig work + occasional freelance,-112777.46,200.0,0.0,0.0,0.0
+2021-12-31,deposit | Local Retail Chain,-110977.46,1800.0,0.0,0.0,0.0
+2022-01-01,credit card,-119406.07,0.0,354.47,11213.61,2785.0
+2022-01-14,deposit | Local Retail Chain,-117606.07,1800.0,0.0,0.0,0.0
+2022-01-26,deposit | gig work + occasional freelance,-117406.07,200.0,0.0,0.0,0.0
+2022-01-28,deposit | Local Retail Chain,-115606.07,1800.0,0.0,0.0,0.0
+2022-02-01,credit card,-123313.1,0.0,338.6,12590.03,4883.0
+2022-02-11,deposit | Local Retail Chain,-121513.1,1800.0,0.0,0.0,0.0
+2022-02-23,deposit | gig work + occasional freelance,-121313.1,200.0,0.0,0.0,0.0
+2022-02-25,deposit | Local Retail Chain,-119513.1,1800.0,0.0,0.0,0.0
+2022-03-01,credit card,-129022.71,0.0,353.97,12717.61,3208.0
+2022-03-11,deposit | Local Retail Chain,-127222.71,1800.0,0.0,0.0,0.0
+2022-03-25,deposit | Local Retail Chain,-125422.71,1800.0,0.0,0.0,0.0
+2022-03-30,deposit | gig work + occasional freelance,-125222.71,200.0,0.0,0.0,0.0
+2022-04-01,credit card,-138795.97,0.0,306.22,14332.26,759.0
+2022-04-08,deposit | Local Retail Chain,-136995.97,1800.0,0.0,0.0,0.0
+2022-04-22,deposit | Local Retail Chain,-135195.97,1800.0,0.0,0.0,0.0
+2022-04-27,deposit | gig work + occasional freelance,-134995.97,200.0,0.0,0.0,0.0
+2022-05-01,credit card,-144588.26,0.0,301.36,14019.29,4427.0
+2022-05-06,deposit | Local Retail Chain,-142788.26,1800.0,0.0,0.0,0.0
+2022-05-20,deposit | Local Retail Chain,-140988.26,1800.0,0.0,0.0,0.0
+2022-05-25,deposit | gig work + occasional freelance,-140788.26,200.0,0.0,0.0,0.0
+2022-06-01,credit card,-150272.18,0.0,273.99,14371.92,4888.0
+2022-06-03,deposit | Local Retail Chain,-148472.18,1800.0,0.0,0.0,0.0
+2022-06-17,deposit | Local Retail Chain,-146672.18,1800.0,0.0,0.0,0.0
+2022-06-29,deposit | gig work + occasional freelance,-146472.18,200.0,0.0,0.0,0.0
+2022-07-01,credit card | deposit | Local Retail Chain,-152733.26,1800.0,308.98,9949.08,1888.0
+2022-07-15,deposit | Local Retail Chain,-150933.26,1800.0,0.0,0.0,0.0
+2022-07-27,deposit | gig work + occasional freelance,-150733.26,200.0,0.0,0.0,0.0
+2022-07-29,deposit | Local Retail Chain,-148933.26,1800.0,0.0,0.0,0.0
+2022-08-01,credit card,-159141.33,0.0,293.12,11817.07,1609.0
+2022-08-12,deposit | Local Retail Chain,-157341.33,1800.0,0.0,0.0,0.0
+2022-08-24,deposit | gig work + occasional freelance,-157141.33,200.0,0.0,0.0,0.0
+2022-08-26,deposit | Local Retail Chain,-155341.33,1800.0,0.0,0.0,0.0
+2022-09-01,credit card,-163602.62,0.0,261.77,10910.29,2649.0
+2022-09-09,deposit | Local Retail Chain,-161802.62,1800.0,0.0,0.0,0.0
+2022-09-23,deposit | Local Retail Chain,-160002.62,1800.0,0.0,0.0,0.0
+2022-09-28,deposit | gig work + occasional freelance,-159802.62,200.0,0.0,0.0,0.0
+2022-10-01,credit card,-167468.24,0.0,272.73,10359.62,2694.0
+2022-10-07,deposit | Local Retail Chain,-165668.24,1800.0,0.0,0.0,0.0
+2022-10-21,deposit | Local Retail Chain,-163868.24,1800.0,0.0,0.0,0.0
+2022-10-26,deposit | gig work + occasional freelance,-163668.24,200.0,0.0,0.0,0.0
+2022-11-01,credit card,-173564.77,0.0,287.85,13034.53,3138.0
+2022-11-04,deposit | Local Retail Chain,-171764.77,1800.0,0.0,0.0,0.0
+2022-11-18,deposit | Local Retail Chain,-169964.77,1800.0,0.0,0.0,0.0
+2022-11-23,deposit | gig work + occasional freelance,-169764.77,200.0,0.0,0.0,0.0
+2022-12-01,credit card,-179812.45,0.0,261.28,10555.68,508.0
+2022-12-02,deposit | Local Retail Chain,-178012.45,1800.0,0.0,0.0,0.0
+2022-12-16,deposit | Local Retail Chain,-176212.45,1800.0,0.0,0.0,0.0
+2022-12-28,deposit | gig work + occasional freelance,-176012.45,200.0,0.0,0.0,0.0
+2022-12-30,deposit | Local Retail Chain,-174212.45,1800.0,0.0,0.0,0.0
+2023-01-01,credit card,-182650.28,0.0,289.77,12561.83,4124.0
+2023-01-13,deposit | Local Retail Chain,-180850.28,1800.0,0.0,0.0,0.0
+2023-01-25,deposit | gig work + occasional freelance,-180650.28,200.0,0.0,0.0,0.0
+2023-01-27,deposit | Local Retail Chain,-178850.28,1800.0,0.0,0.0,0.0
+2023-02-01,credit card,-187684.46,0.0,288.73,11646.18,2812.0
+2023-02-10,deposit | Local Retail Chain,-185884.46,1800.0,0.0,0.0,0.0
+2023-02-22,deposit | gig work + occasional freelance,-185684.46,200.0,0.0,0.0,0.0
+2023-02-24,deposit | Local Retail Chain,-183884.46,1800.0,0.0,0.0,0.0
+2023-03-01,credit card,-192435.98,0.0,315.65,10121.52,1570.0
+2023-03-10,deposit | Local Retail Chain,-190635.98,1800.0,0.0,0.0,0.0
+2023-03-24,deposit | Local Retail Chain,-188835.98,1800.0,0.0,0.0,0.0
+2023-03-29,deposit | gig work + occasional freelance,-188635.98,200.0,0.0,0.0,0.0
+2023-04-01,credit card,-199620.32,0.0,317.75,12648.34,1664.0
+2023-04-07,deposit | Local Retail Chain,-197820.32,1800.0,0.0,0.0,0.0
+2023-04-21,deposit | Local Retail Chain,-196020.32,1800.0,0.0,0.0,0.0
+2023-04-26,deposit | gig work + occasional freelance,-195820.32,200.0,0.0,0.0,0.0
+2023-05-01,credit card,-204218.05,0.0,342.8,10049.73,1652.0
+2023-05-05,deposit | Local Retail Chain,-202418.05,1800.0,0.0,0.0,0.0
+2023-05-19,deposit | Local Retail Chain,-200618.05,1800.0,0.0,0.0,0.0
+2023-05-24,deposit | gig work + occasional freelance,-200418.05,200.0,0.0,0.0,0.0
+2023-06-01,credit card,-204683.02,0.0,363.91,9245.97,4981.0
+2023-06-02,deposit | Local Retail Chain,-202883.02,1800.0,0.0,0.0,0.0
+2023-06-16,deposit | Local Retail Chain,-201083.02,1800.0,0.0,0.0,0.0
+2023-06-28,deposit | gig work + occasional freelance,-200883.02,200.0,0.0,0.0,0.0
+2023-06-30,deposit | Local Retail Chain,-199083.02,1800.0,0.0,0.0,0.0
+2023-07-01,credit card,-212463.12,0.0,378.47,14521.1,1141.0
+2023-07-14,deposit | Local Retail Chain,-210663.12,1800.0,0.0,0.0,0.0
+2023-07-26,deposit | gig work + occasional freelance,-210463.12,200.0,0.0,0.0,0.0
+2023-07-28,deposit | Local Retail Chain,-208663.12,1800.0,0.0,0.0,0.0
+2023-08-01,credit card,-221352.88,0.0,372.86,13258.76,569.0
+2023-08-11,deposit | Local Retail Chain,-219552.88,1800.0,0.0,0.0,0.0
+2023-08-25,deposit | Local Retail Chain,-217752.88,1800.0,0.0,0.0,0.0
+2023-08-30,deposit | gig work + occasional freelance,-217552.88,200.0,0.0,0.0,0.0
+2023-09-01,credit card,-227287.07,0.0,353.41,12474.19,2740.0
+2023-09-08,deposit | Local Retail Chain,-225487.07,1800.0,0.0,0.0,0.0
+2023-09-22,deposit | Local Retail Chain,-223687.07,1800.0,0.0,0.0,0.0
+2023-09-27,deposit | gig work + occasional freelance,-223487.07,200.0,0.0,0.0,0.0
+2023-10-01,credit card,-232026.71,0.0,346.61,11354.64,2815.0
+2023-10-06,deposit | Local Retail Chain,-230226.71,1800.0,0.0,0.0,0.0
+2023-10-20,deposit | Local Retail Chain,-228426.71,1800.0,0.0,0.0,0.0
+2023-10-25,deposit | gig work + occasional freelance,-228226.71,200.0,0.0,0.0,0.0
+2023-11-01,credit card,-240569.25,0.0,384.11,12943.54,601.0
+2023-11-03,deposit | Local Retail Chain,-238769.25,1800.0,0.0,0.0,0.0
+2023-11-17,deposit | Local Retail Chain,-236969.25,1800.0,0.0,0.0,0.0
+2023-11-29,deposit | gig work + occasional freelance,-236769.25,200.0,0.0,0.0,0.0
+2023-12-01,credit card | deposit | Local Retail Chain,-244593.48,1800.0,404.55,13225.23,3601.0
+2023-12-15,deposit | Local Retail Chain,-242793.48,1800.0,0.0,0.0,0.0
+2023-12-27,deposit | gig work + occasional freelance,-242593.48,200.0,0.0,0.0,0.0
+2023-12-29,deposit | Local Retail Chain,-240793.48,1800.0,0.0,0.0,0.0
+2024-01-01,credit card,-255133.15,0.0,412.95,15273.67,934.0
+2024-01-12,deposit | Local Retail Chain,-253333.15,1800.0,0.0,0.0,0.0
+2024-01-24,deposit | gig work + occasional freelance,-253133.15,200.0,0.0,0.0,0.0
+2024-01-26,deposit | Local Retail Chain,-251333.15,1800.0,0.0,0.0,0.0
+2024-02-01,credit card,-263683.32,0.0,434.76,12896.17,546.0
+2024-02-09,deposit | Local Retail Chain,-261883.32,1800.0,0.0,0.0,0.0
+2024-02-23,deposit | Local Retail Chain,-260083.32,1800.0,0.0,0.0,0.0
+2024-02-28,deposit | gig work + occasional freelance,-259883.32,200.0,0.0,0.0,0.0
+2024-03-01,credit card,-269515.01,0.0,439.73,12505.69,2874.0
+2024-03-08,deposit | Local Retail Chain,-267715.01,1800.0,0.0,0.0,0.0
+2024-03-22,deposit | Local Retail Chain,-265915.01,1800.0,0.0,0.0,0.0
+2024-03-27,deposit | gig work + occasional freelance,-265715.01,200.0,0.0,0.0,0.0
+2024-04-01,credit card,-271255.45,0.0,421.05,10536.44,4996.0
+2024-04-05,deposit | Local Retail Chain,-269455.45,1800.0,0.0,0.0,0.0
+2024-04-19,deposit | Local Retail Chain,-267655.45,1800.0,0.0,0.0,0.0
+2024-04-24,deposit | gig work + occasional freelance,-267455.45,200.0,0.0,0.0,0.0
+2024-05-01,credit card,-278112.65,0.0,446.95,12624.2,1967.0
+2024-05-03,deposit | Local Retail Chain,-276312.65,1800.0,0.0,0.0,0.0
+2024-05-17,deposit | Local Retail Chain,-274512.65,1800.0,0.0,0.0,0.0
+2024-05-29,deposit | gig work + occasional freelance,-274312.65,200.0,0.0,0.0,0.0
+2024-05-31,deposit | Local Retail Chain,-272512.65,1800.0,0.0,0.0,0.0
+2024-06-01,credit card,-284711.24,0.0,475.11,14430.59,2232.0
+2024-06-14,deposit | Local Retail Chain,-282911.24,1800.0,0.0,0.0,0.0
+2024-06-26,deposit | gig work + occasional freelance,-282711.24,200.0,0.0,0.0,0.0
+2024-06-28,deposit | Local Retail Chain,-280911.24,1800.0,0.0,0.0,0.0
+2024-07-01,credit card,-292432.87,0.0,467.88,15178.63,3657.0
+2024-07-12,deposit | Local Retail Chain,-290632.87,1800.0,0.0,0.0,0.0
+2024-07-24,deposit | gig work + occasional freelance,-290432.87,200.0,0.0,0.0,0.0
+2024-07-26,deposit | Local Retail Chain,-288632.87,1800.0,0.0,0.0,0.0
+2024-08-01,credit card,-301823.65,0.0,473.05,13728.78,538.0
+2024-08-09,deposit | Local Retail Chain,-300023.65,1800.0,0.0,0.0,0.0
+2024-08-23,deposit | Local Retail Chain,-298223.65,1800.0,0.0,0.0,0.0
+2024-08-28,deposit | gig work + occasional freelance,-298023.65,200.0,0.0,0.0,0.0
+2024-09-01,credit card,-306546.87,0.0,484.77,11056.22,2533.0
+2024-09-06,deposit | Local Retail Chain,-304746.87,1800.0,0.0,0.0,0.0
+2024-09-20,deposit | Local Retail Chain,-302946.87,1800.0,0.0,0.0,0.0
+2024-09-25,deposit | gig work + occasional freelance,-302746.87,200.0,0.0,0.0,0.0
+2024-10-01,credit card,-313274.99,0.0,481.25,12900.12,2372.0
+2024-10-04,deposit | Local Retail Chain,-311474.99,1800.0,0.0,0.0,0.0
+2024-10-18,deposit | Local Retail Chain,-309674.99,1800.0,0.0,0.0,0.0
+2024-10-30,deposit | gig work + occasional freelance,-309474.99,200.0,0.0,0.0,0.0
+2024-11-01,credit card | deposit | Local Retail Chain,-318911.72,1800.0,507.0,11736.73,500.0
+2024-11-15,deposit | Local Retail Chain,-317111.72,1800.0,0.0,0.0,0.0
+2024-11-27,deposit | gig work + occasional freelance,-316911.72,200.0,0.0,0.0,0.0
+2024-11-29,deposit | Local Retail Chain,-315111.72,1800.0,0.0,0.0,0.0
+2024-12-01,credit card,-320557.39,0.0,508.49,9070.67,3625.0
+2024-12-13,deposit | Local Retail Chain,-318757.39,1800.0,0.0,0.0,0.0
+2024-12-27,deposit | Local Retail Chain,-316957.39,1800.0,0.0,0.0,0.0
