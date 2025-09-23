@@ -2,9 +2,17 @@ import os
 from typing import Dict, Tuple, List
 import gradio as gr
 import pandas as pd
+from pydantic import BaseModel
 
 # Global storage for accounts
 accounts: Dict[str, str] = {}
+
+class Account(BaseModel):
+    name: str
+    bank_statement_path: str
+    expense_path: str
+    income_path: str
+    stocks_path: str
 
 def init_accounts() -> Dict[str, str]:
     """Initialize default accounts (existing CSVs if available)."""
