@@ -1,8 +1,9 @@
 import os
-from typing import Dict, Tuple, List
+from typing import Dict
 import gradio as gr
 import pandas as pd
 from pydantic import BaseModel
+from agent import agent
 
 class Account(BaseModel):
     name: str
@@ -10,36 +11,41 @@ class Account(BaseModel):
     expense_path: str
     income_path: str
     stocks_path: str
+    report_path: str
+    chat_history: list[dict] = []
 
 # Global storage for accounts
-accounts: Dict[str, Account] = {}
+accounts: dict[str, Account] = {}
 
-def init_accounts() -> Dict[str, Account]:
+def init_accounts() -> dict[str, Account]:
     """Initialize default accounts."""
-    base_dir = os.path.join(os.path.dirname(__file__), "csvs")
+    base_dir = os.path.join(os.path.dirname(__file__))
     
     middle_class_account = Account(
         name="Middle Class Person",
-        bank_statement_path=os.path.join(base_dir, "middle", "middle_class_person_bank_statement.csv"),
-        expense_path=os.path.join(base_dir, "middle", "middle_class_person_expense.csv"),
-        income_path=os.path.join(base_dir, "middle", "middle_class_person_income.csv"),
-        stocks_path=os.path.join(base_dir, "middle", "middle_class_person_stocks.csv")
+        bank_statement_path=os.path.join(base_dir, "csvs", "middle", "middle_class_person_bank_statement.csv"),
+        expense_path=os.path.join(base_dir, "csvs", "middle", "middle_class_person_expense.csv"),
+        income_path=os.path.join(base_dir, "csvs", "middle", "middle_class_person_income.csv"),
+        stocks_path=os.path.join(base_dir, "csvs", "middle", "middle_class_person_stocks.csv"),
+        report_path=os.path.join(base_dir, "reports", "middle_class_person_financial_analysis.md")
     )
 
     struggling_account = Account(
         name="Struggling Person",
-        bank_statement_path=os.path.join(base_dir, "low", "struggling_person_bank_statement.csv"),
-        expense_path=os.path.join(base_dir, "low", "struggling_person_expense.csv"),
-        income_path=os.path.join(base_dir, "low", "struggling_person_income.csv"),
-        stocks_path=os.path.join(base_dir, "low", "struggling_person_stocks.csv")
+        bank_statement_path=os.path.join(base_dir, "csvs", "low", "struggling_person_bank_statement.csv"),
+        expense_path=os.path.join(base_dir, "csvs", "low", "struggling_person_expense.csv"),
+        income_path=os.path.join(base_dir, "csvs", "low", "struggling_person_income.csv"),
+        stocks_path=os.path.join(base_dir, "csvs", "low", "struggling_person_stocks.csv"),
+        report_path=os.path.join(base_dir, "reports", "struggling_person_financial_analysis.md")
     )
 
     wealthy_account = Account(
         name="Wealthy Person",
-        bank_statement_path=os.path.join(base_dir, "high", "wealthy_person_bank_statement.csv"),
-        expense_path=os.path.join(base_dir, "high", "wealthy_person_expense.csv"),
-        income_path=os.path.join(base_dir, "high", "wealthy_person_income.csv"),
-        stocks_path=os.path.join(base_dir, "high", "wealthy_person_stocks.csv")
+        bank_statement_path=os.path.join(base_dir, "csvs", "high", "wealthy_person_bank_statement.csv"),
+        expense_path=os.path.join(base_dir, "csvs", "high", "wealthy_person_expense.csv"),
+        income_path=os.path.join(base_dir, "csvs", "high", "wealthy_person_income.csv"),
+        stocks_path=os.path.join(base_dir, "csvs", "high", "wealthy_person_stocks.csv"),
+        report_path=os.path.join(base_dir, "reports", "wealthy_person_financial_analysis.md")
     )
     
     return {
@@ -72,16 +78,27 @@ def load_csv_data(account_name: str, csv_type: str) -> pd.DataFrame:
     except Exception as e:
         return pd.DataFrame()
 
-def send_chat(user_message: str, history: List[dict]):
+def send_chat(user_message: str, history: list[dict], account_name: str):
+    disable_dropdown = gr.update(interactive=False)
+
     user_message = (user_message or "").strip()
     if not user_message:
         return history, ""
-    response = "This is a placeholder assistant. We'll connect the real agent soon."
+    
+    result = agent.invoke_agent(account_name, user_message)
+    response = result["messages"][-1].content
+
     updated_history = (history or []) + [
         {"role": "user", "content": user_message},
         {"role": "assistant", "content": response},
     ]
-    return updated_history, ""
+
+    if account_name in accounts:
+        accounts[account_name].chat_history = updated_history
+
+    enable_dropdown = gr.update(interactive=True)
+
+    return updated_history, "", enable_dropdown
 
 custom_css = """
 #account_section, #select_section, #chat_box {
@@ -215,12 +232,13 @@ with gr.Blocks(theme=gr.themes.Soft(), css=custom_css) as demo:
 
     # When account changes, load that person's default CSV (Bank Statement)
     def on_account_change(account_name: str):
-        return load_csv_data(account_name, "Bank Statement")
+        chat_hist = accounts[account_name].chat_history if account_name in accounts else []
+        return load_csv_data(account_name, "Bank Statement"), chat_hist
 
     account_dropdown.change(
         fn=on_account_change,
         inputs=[account_dropdown],
-        outputs=[transactions_df],
+        outputs=[transactions_df, chat_history],
     )
 
     # Initialize with default account and Bank Statement CSV
@@ -230,10 +248,17 @@ with gr.Blocks(theme=gr.themes.Soft(), css=custom_css) as demo:
     )
 
     # Chat
-    send_btn.click(fn=send_chat, inputs=[user_input, chat_history],
-                    outputs=[chat_history, user_input])
-    user_input.submit(fn=send_chat, inputs=[user_input, chat_history],
-                        outputs=[chat_history, user_input])
+    send_btn.click(
+        fn=send_chat, 
+        inputs=[user_input, chat_history, account_dropdown],
+        outputs=[chat_history, user_input, account_dropdown]
+    )
+
+    user_input.submit(
+        fn=send_chat,
+        inputs=[user_input, chat_history, account_dropdown],
+        outputs=[chat_history, user_input, account_dropdown]
+    )
 
 if __name__ == "__main__":
     demo.launch()
