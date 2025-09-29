@@ -49,9 +49,9 @@ def init_accounts() -> dict[str, Account]:
     )
     
     return {
-        "Middle Income Person": middle_class_account,
-        "High Income Person": wealthy_account,
-        "Low Income Person": struggling_account
+        "Middle Class Person": middle_class_account,
+        "Wealthy Person": wealthy_account,
+        "Struggling Person": struggling_account
         }
 
 def load_csv_data(account_name: str, csv_type: str) -> pd.DataFrame:
@@ -79,8 +79,6 @@ def load_csv_data(account_name: str, csv_type: str) -> pd.DataFrame:
         return pd.DataFrame()
 
 def send_chat(user_message: str, history: list[dict], account_name: str):
-    disable_dropdown = gr.update(interactive=False)
-
     user_message = (user_message or "").strip()
     if not user_message:
         return history, ""
@@ -97,8 +95,10 @@ def send_chat(user_message: str, history: list[dict], account_name: str):
         accounts[account_name].chat_history = updated_history
 
     enable_dropdown = gr.update(interactive=True)
+    enable_button = gr.update(interactive=True)
+    enable_input = gr.update(interactive=True, value="")
 
-    return updated_history, "", enable_dropdown
+    return updated_history, enable_dropdown, enable_button, enable_input
 
 custom_css = """
 #account_section, #select_section, #chat_box {
@@ -251,13 +251,13 @@ with gr.Blocks(theme=gr.themes.Soft(), css=custom_css) as demo:
     send_btn.click(
         fn=send_chat, 
         inputs=[user_input, chat_history, account_dropdown],
-        outputs=[chat_history, user_input, account_dropdown]
+        outputs=[chat_history, account_dropdown, send_btn, user_input]
     )
 
     user_input.submit(
         fn=send_chat,
         inputs=[user_input, chat_history, account_dropdown],
-        outputs=[chat_history, user_input, account_dropdown]
+        outputs=[chat_history, account_dropdown, send_btn, user_input]
     )
 
 if __name__ == "__main__":

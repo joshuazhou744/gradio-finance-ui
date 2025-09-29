@@ -2,6 +2,7 @@ from langchain_openai import ChatOpenAI
 from langchain_core.messages import HumanMessage, SystemMessage
 from langgraph.checkpoint.memory import MemorySaver
 from langgraph.graph import START, MessagesState, StateGraph
+from langchain_community.document_loaders import UnstructuredMarkdownLoader
 
 from dotenv import load_dotenv
 
@@ -12,13 +13,31 @@ class Agent:
         model = ChatOpenAI(model="gpt-5-nano")
         workflow = StateGraph(state_schema=MessagesState)
 
-        def call_model(state: MessagesState):
-            system_prompt = (
-                "You are a helpful assistant. Answer all questions to the best of your ability."
+        def load_markdown(path: str):
+            loader = UnstructuredMarkdownLoader(path)
+            docs = loader.load()
+            return docs
+        
+        account_docs = {
+            "Middle Class Person": load_markdown("./reports/middle_class_person_financial_analysis.md"),
+            "Struggling Person": load_markdown("./reports/struggling_person_financial_analysis.md"),
+            "Wealthy Person": load_markdown("./reports/wealthy_person_financial_analysis.md"),
+        }
+
+        def call_model(state: MessagesState, config):
+            thread_id = config["configurable"]["thread_id"]
+
+            system_prompt = SystemMessage(
+                content="You are a helpful assistant. Answer all questions to the best of your ability."
             )
-            messages = [SystemMessage(content=system_prompt)] + state["messages"]
+
+            docs = account_docs.get(thread_id, [])
+            context_message = SystemMessage(content=f"Here is reference context for this account:\n{docs}")
+
+            messages = [system_prompt, context_message] + state["messages"]
+
             response = model.invoke(messages)
-            return {"messages": response}
+            return {"messages": [response]}
         
         workflow.add_node("call_model", call_model)
         workflow.add_edge(START, "call_model")
