@@ -1,5 +1,4 @@
-just install gradio
-
+install dependencies
 ```bash
-pip install gradio
+pip install -r requirements.txt
 ```
