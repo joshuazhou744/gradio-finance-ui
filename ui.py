@@ -11,7 +11,6 @@ class Account(BaseModel):
     income_path: str
     stocks_path: str
     report_path: str
-    chat_history: list[dict] = []
 
 # Global storage for accounts
 accounts: dict[str, Account] = {}
@@ -70,11 +69,11 @@ def load_csv_data(account_name: str, csv_type: str) -> pd.DataFrame:
     except Exception as e:
         return pd.DataFrame()
 
-def send_chat(user_message: str, history: list[dict], account_name: str):
+def send_chat(user_message: str, history: list[dict], account_name: str, session_chat_histories: dict):
     user_message = (user_message or "").strip()
     if not user_message:
-        return history, ""
-    
+        return history, session_chat_histories, ""
+
     result = agent.invoke_agent(account_name, user_message)
     response = result["messages"][-1].content
 
@@ -83,14 +82,16 @@ def send_chat(user_message: str, history: list[dict], account_name: str):
         {"role": "assistant", "content": response},
     ]
 
-    if account_name in accounts:
-        accounts[account_name].chat_history = updated_history
+    # Store chat history per account in session state
+    if session_chat_histories is None:
+        session_chat_histories = {}
+    session_chat_histories[account_name] = updated_history
 
     enable_dropdown = gr.update(interactive=True)
     enable_button = gr.update(interactive=True)
     enable_input = gr.update(interactive=True, value="")
 
-    return updated_history, enable_dropdown, enable_button, enable_input
+    return updated_history, session_chat_histories, enable_dropdown, enable_button, enable_input
 
 custom_css = """
 #transactions_section, #select_section, #chat_box {
@@ -202,6 +203,9 @@ with gr.Blocks(theme=gr.themes.Soft(), css=custom_css) as demo:
                     )
                     send_btn = gr.Button("Send", variant="primary", scale=1)
 
+    # Session state for storing chat histories per user session
+    session_chat_histories = gr.State(value={})
+
     # Generic CSV loader
     def load_csv_type(csv_type: str, account_name: str):
         """Generic function to load any CSV type and update UI accordingly."""
@@ -247,14 +251,17 @@ with gr.Blocks(theme=gr.themes.Soft(), css=custom_css) as demo:
     )
 
     # When account changes, load that person's default CSV (Bank Statement)
-    def on_account_change(account_name: str):
-        chat_hist = accounts[account_name].chat_history if account_name in accounts else []
+    def on_account_change(account_name: str, session_chat_histories: dict):
+        # Load chat history from session state for this account
+        if session_chat_histories is None:
+            session_chat_histories = {}
+        chat_hist = session_chat_histories.get(account_name, [])
         csv_outputs = load_csv_type("bank_statement", account_name)
         return [*csv_outputs, chat_hist]
 
     account_dropdown.change(
         fn=on_account_change,
-        inputs=[account_dropdown],
+        inputs=[account_dropdown, session_chat_histories],
         outputs=[transactions_df, bank_statement_btn, expenses_btn, income_btn, stocks_btn, download_btn, chat_history],
     )
 
@@ -276,15 +283,15 @@ with gr.Blocks(theme=gr.themes.Soft(), css=custom_css) as demo:
 
     # Chat
     send_btn.click(
-        fn=send_chat, 
-        inputs=[user_input, chat_history, account_dropdown],
-        outputs=[chat_history, account_dropdown, send_btn, user_input]
+        fn=send_chat,
+        inputs=[user_input, chat_history, account_dropdown, session_chat_histories],
+        outputs=[chat_history, session_chat_histories, account_dropdown, send_btn, user_input]
     )
 
     user_input.submit(
         fn=send_chat,
-        inputs=[user_input, chat_history, account_dropdown],
-        outputs=[chat_history, account_dropdown, send_btn, user_input]
+        inputs=[user_input, chat_history, account_dropdown, session_chat_histories],
+        outputs=[chat_history, session_chat_histories, account_dropdown, send_btn, user_input]
     )
 
 if __name__ == "__main__":
