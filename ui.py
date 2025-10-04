@@ -1,6 +1,7 @@
 import os
 import gradio as gr
 import pandas as pd
+import uuid
 from pydantic import BaseModel
 from agent import agent
 
@@ -73,8 +74,14 @@ def send_chat(user_message: str, history: list[dict], account_name: str, session
     user_message = (user_message or "").strip()
     if not user_message:
         return history, session_chat_histories, ""
+    
+    thread_key = f"thread_{account_name}"
+    if thread_key not in session_chat_histories:
+        session_chat_histories[thread_key] = f"{account_name}_{uuid.uuid4().hex[:8]}"
 
-    result = agent.invoke_agent(account_name, user_message)
+    thread_id = session_chat_histories[thread_key]
+
+    result = agent.invoke_agent(thread_id, user_message)
     response = result["messages"][-1].content
 
     updated_history = (history or []) + [
