@@ -17,21 +17,16 @@ class Agent:
             loader = UnstructuredMarkdownLoader(path)
             docs = loader.load()
             return docs
-        
-        account_docs = {
-            "Middle Class Person": load_markdown("./reports/middle_class_person_financial_analysis.md"),
-            "Struggling Person": load_markdown("./reports/struggling_person_financial_analysis.md"),
-            "Wealthy Person": load_markdown("./reports/wealthy_person_financial_analysis.md"),
-        }
 
         def call_model(state: MessagesState, config):
             thread_id = config["configurable"]["thread_id"]
+            report_path = config["configurable"]["report_path"]
 
             system_prompt = SystemMessage(
                 content="You are a helpful assistant. Answer all questions to the best of your ability."
             )
 
-            docs = account_docs.get(thread_id, [])
+            docs = load_markdown(report_path)
             context_message = SystemMessage(content=f"Here is reference context for this account:\n{docs}")
 
             messages = [system_prompt, context_message] + state["messages"]
@@ -45,10 +40,10 @@ class Agent:
         self.memory = MemorySaver()
         self.app = workflow.compile(checkpointer=self.memory)
 
-    def invoke_agent(self, thread_id: str, text: str):
+    def invoke_agent(self, thread_id: str, report_path: str, text: str):
         return self.app.invoke(
             {"messages": [HumanMessage(content=text)]},
-            config={"configurable": {"thread_id": thread_id}}
+            config={"configurable": {"thread_id": thread_id, "report_path": report_path}}
         )
 
 agent = Agent()

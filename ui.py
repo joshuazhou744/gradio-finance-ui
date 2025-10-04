@@ -81,7 +81,7 @@ def send_chat(user_message: str, history: list[dict], account_name: str, session
 
     thread_id = session_chat_histories[thread_key]
 
-    result = agent.invoke_agent(thread_id, user_message)
+    result = agent.invoke_agent(thread_id, accounts[account_name].report_path, user_message)
     response = result["messages"][-1].content
 
     updated_history = (history or []) + [
